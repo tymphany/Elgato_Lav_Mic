@@ -1,0 +1,2041 @@
+
+Discarded input sections
+
+ .note.GNU-stack
+                0x00000000        0x0 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crtbegin.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/main_lib.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/lc3_memory.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/lc3_codec_api.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/lc3.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/basop_util.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/rom_basop_util.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/constants.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/basop32.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/enh1632.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/enhUL32.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/dct2_fx.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/dct4_fx.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/mdct_shaping_fx.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/sns_interpolate_scf_fx.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/ari_codec.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/sns_quantize_scf_fx.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/pvq_index_fx.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/pvq_dec_fx.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/fft.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/fft_stage.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/fft_stage_hifi5.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/apply_global_gain_fx.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/basop_mpy.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/imdct_fx.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/dec_entropy.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/dec_lc3.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/ltpf_decoder_fx.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/noise_filling_fx.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/residual_decoding_fx.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/setup_dec_lc3.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/tns_decoder_fx.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/plc_apply_fx.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/plc_classify_fx.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/plc_main_fx.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/plc_noise_substitution_fx.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/plc_update_aft_imdct_fx.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/plc_update_fx.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/adjust_global_gain_fx.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/attack_detector_fx.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/detect_cutoff_warped_fx.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/estimate_global_gain_fx.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/levinson_fx.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/ltpf_coder_fx.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/mdct_fx.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/near_nyquist_detector_fx.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/noise_factor_fx.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/olpa_fx.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/per_band_energy_fx.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/quantize_spec_fx.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/resamp12k8_fx.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/residual_coding_fx.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/scale_signal24_fx.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/sns_compute_scf_fx.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/tns_coder_fx.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/enc_lc3.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/enc_entropy.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/pvq_enc_fx.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/setup_enc_lc3.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/plc_lp_func.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 Build/source/plc_lp_prcs_fx.picsl.o
+ .note.GNU-stack
+                0x00000000        0x0 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crtend.o
+
+Linker script and memory map
+
+LOAD C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crti.o
+LOAD C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crtbegin.o
+LOAD Build/source/main_lib.picsl.o
+LOAD Build/source/lc3_memory.picsl.o
+LOAD Build/source/lc3_codec_api.picsl.o
+LOAD Build/source/lc3.picsl.o
+LOAD Build/source/basop_util.picsl.o
+LOAD Build/source/rom_basop_util.picsl.o
+LOAD Build/source/constants.picsl.o
+LOAD Build/source/basop32.picsl.o
+LOAD Build/source/enh1632.picsl.o
+LOAD Build/source/enhUL32.picsl.o
+LOAD Build/source/dct2_fx.picsl.o
+LOAD Build/source/dct4_fx.picsl.o
+LOAD Build/source/mdct_shaping_fx.picsl.o
+LOAD Build/source/sns_interpolate_scf_fx.picsl.o
+LOAD Build/source/ari_codec.picsl.o
+LOAD Build/source/sns_quantize_scf_fx.picsl.o
+LOAD Build/source/pvq_index_fx.picsl.o
+LOAD Build/source/pvq_dec_fx.picsl.o
+LOAD Build/source/fft.picsl.o
+LOAD Build/source/fft_stage.picsl.o
+LOAD Build/source/fft_stage_hifi5.picsl.o
+LOAD Build/source/apply_global_gain_fx.picsl.o
+LOAD Build/source/basop_mpy.picsl.o
+LOAD Build/source/imdct_fx.picsl.o
+LOAD Build/source/dec_entropy.picsl.o
+LOAD Build/source/dec_lc3.picsl.o
+LOAD Build/source/ltpf_decoder_fx.picsl.o
+LOAD Build/source/noise_filling_fx.picsl.o
+LOAD Build/source/residual_decoding_fx.picsl.o
+LOAD Build/source/setup_dec_lc3.picsl.o
+LOAD Build/source/tns_decoder_fx.picsl.o
+LOAD Build/source/plc_apply_fx.picsl.o
+LOAD Build/source/plc_classify_fx.picsl.o
+LOAD Build/source/plc_main_fx.picsl.o
+LOAD Build/source/plc_noise_substitution_fx.picsl.o
+LOAD Build/source/plc_update_aft_imdct_fx.picsl.o
+LOAD Build/source/plc_update_fx.picsl.o
+LOAD Build/source/adjust_global_gain_fx.picsl.o
+LOAD Build/source/attack_detector_fx.picsl.o
+LOAD Build/source/detect_cutoff_warped_fx.picsl.o
+LOAD Build/source/estimate_global_gain_fx.picsl.o
+LOAD Build/source/levinson_fx.picsl.o
+LOAD Build/source/ltpf_coder_fx.picsl.o
+LOAD Build/source/mdct_fx.picsl.o
+LOAD Build/source/near_nyquist_detector_fx.picsl.o
+LOAD Build/source/noise_factor_fx.picsl.o
+LOAD Build/source/olpa_fx.picsl.o
+LOAD Build/source/per_band_energy_fx.picsl.o
+LOAD Build/source/quantize_spec_fx.picsl.o
+LOAD Build/source/resamp12k8_fx.picsl.o
+LOAD Build/source/residual_coding_fx.picsl.o
+LOAD Build/source/scale_signal24_fx.picsl.o
+LOAD Build/source/sns_compute_scf_fx.picsl.o
+LOAD Build/source/tns_coder_fx.picsl.o
+LOAD Build/source/enc_lc3.picsl.o
+LOAD Build/source/enc_entropy.picsl.o
+LOAD Build/source/pvq_enc_fx.picsl.o
+LOAD Build/source/setup_enc_lc3.picsl.o
+LOAD Build/source/plc_lp_func.picsl.o
+LOAD Build/source/plc_lp_prcs_fx.picsl.o
+LOAD C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/\libgcc.a
+LOAD C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/\libgcc.a
+LOAD C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crtend.o
+LOAD C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crtn.o
+
+.text           0x00000000     0xe96d
+                0x00000000                _text_start = ABSOLUTE (.)
+ *(.got.plt* .plt*)
+ .got.plt       0x00000000        0x0 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crti.o
+                0x00000000                _GLOBAL_OFFSET_TABLE_
+ .init.literal  0x00000000        0x4 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crtbegin.o
+ .init.literal  0x00000004        0x4 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crtend.o
+ .literal       0x00000008       0x14 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crtbegin.o
+                                         0x20 (size before relaxing)
+ .literal       0x0000001c       0x4c Build/source/main_lib.picsl.o
+ .literal       0x00000068       0x54 Build/source/lc3_codec_api.picsl.o
+                                         0x58 (size before relaxing)
+ .literal       0x000000bc       0x3c Build/source/lc3.picsl.o
+                                         0x5c (size before relaxing)
+ .literal       0x000000f8       0x50 Build/source/basop_util.picsl.o
+                                         0x58 (size before relaxing)
+ .literal       0x00000148       0x30 Build/source/rom_basop_util.picsl.o
+                                         0x38 (size before relaxing)
+ .literal       0x00000178        0x8 Build/source/dct4_fx.picsl.o
+                                         0x10 (size before relaxing)
+ .literal       0x00000180        0x0 Build/source/sns_interpolate_scf_fx.picsl.o
+                                          0x8 (size before relaxing)
+ .literal       0x00000180       0x48 Build/source/ari_codec.picsl.o
+                                         0xf8 (size before relaxing)
+ .literal       0x000001c8       0x38 Build/source/sns_quantize_scf_fx.picsl.o
+                                         0x80 (size before relaxing)
+ .literal       0x00000200        0xc Build/source/pvq_index_fx.picsl.o
+                                         0x10 (size before relaxing)
+ .literal       0x0000020c       0x14 Build/source/pvq_dec_fx.picsl.o
+ .literal       0x00000220       0x38 Build/source/fft.picsl.o
+                                         0x68 (size before relaxing)
+ .literal       0x00000258       0x34 Build/source/fft_stage.picsl.o
+                                         0x38 (size before relaxing)
+ .literal       0x0000028c        0x8 Build/source/apply_global_gain_fx.picsl.o
+ .literal       0x00000294        0xc Build/source/imdct_fx.picsl.o
+                                         0x10 (size before relaxing)
+ .literal       0x000002a0        0xc Build/source/dec_entropy.picsl.o
+                                         0x30 (size before relaxing)
+ .literal       0x000002ac       0x48 Build/source/dec_lc3.picsl.o
+                                         0x6c (size before relaxing)
+ .literal       0x000002f4       0x34 Build/source/ltpf_decoder_fx.picsl.o
+                                         0x70 (size before relaxing)
+ .literal       0x00000328        0x4 Build/source/noise_filling_fx.picsl.o
+ .literal       0x0000032c       0x38 Build/source/setup_dec_lc3.picsl.o
+                                         0x5c (size before relaxing)
+ .literal       0x00000364        0x8 Build/source/tns_decoder_fx.picsl.o
+                                         0x10 (size before relaxing)
+ .literal       0x0000036c        0xc Build/source/plc_apply_fx.picsl.o
+ .literal       0x00000378        0x4 Build/source/plc_classify_fx.picsl.o
+ .literal       0x0000037c        0xc Build/source/plc_main_fx.picsl.o
+ .literal       0x00000388        0x8 Build/source/plc_update_fx.picsl.o
+                                          0xc (size before relaxing)
+ .literal       0x00000390        0x4 Build/source/adjust_global_gain_fx.picsl.o
+                                          0x8 (size before relaxing)
+ .literal       0x00000394        0x0 Build/source/attack_detector_fx.picsl.o
+                                         0x10 (size before relaxing)
+ .literal       0x00000394       0x30 Build/source/detect_cutoff_warped_fx.picsl.o
+ .literal       0x000003c4       0x1c Build/source/estimate_global_gain_fx.picsl.o
+                                         0x28 (size before relaxing)
+ .literal       0x000003e0        0x8 Build/source/levinson_fx.picsl.o
+                                         0x1c (size before relaxing)
+ .literal       0x000003e8        0x8 Build/source/ltpf_coder_fx.picsl.o
+                                         0x1c (size before relaxing)
+ .literal       0x000003f0        0x0 Build/source/mdct_fx.picsl.o
+                                          0x8 (size before relaxing)
+ .literal       0x000003f0        0x8 Build/source/near_nyquist_detector_fx.picsl.o
+                                         0x10 (size before relaxing)
+ .literal       0x000003f8        0xc Build/source/noise_factor_fx.picsl.o
+                                         0x10 (size before relaxing)
+ .literal       0x00000404        0x4 Build/source/olpa_fx.picsl.o
+                                         0x1c (size before relaxing)
+ .literal       0x00000408       0x14 Build/source/per_band_energy_fx.picsl.o
+                                         0x18 (size before relaxing)
+ .literal       0x0000041c       0x18 Build/source/quantize_spec_fx.picsl.o
+                                         0x64 (size before relaxing)
+ .literal       0x00000434       0x14 Build/source/resamp12k8_fx.picsl.o
+                                         0x1c (size before relaxing)
+ .literal       0x00000448        0x4 Build/source/scale_signal24_fx.picsl.o
+                                         0x10 (size before relaxing)
+ .literal       0x0000044c       0x10 Build/source/sns_compute_scf_fx.picsl.o
+ .literal       0x0000045c       0x38 Build/source/tns_coder_fx.picsl.o
+                                         0x5c (size before relaxing)
+ .literal       0x00000494       0x4c Build/source/enc_lc3.picsl.o
+                                         0x6c (size before relaxing)
+ .literal       0x000004e0        0x8 Build/source/enc_entropy.picsl.o
+                                         0x20 (size before relaxing)
+ .literal       0x000004e8        0x8 Build/source/pvq_enc_fx.picsl.o
+                                         0x34 (size before relaxing)
+ .literal       0x000004f0       0x1c Build/source/setup_enc_lc3.picsl.o
+                                         0x78 (size before relaxing)
+ .literal       0x0000050c       0x18 Build/source/plc_lp_func.picsl.o
+                                         0x24 (size before relaxing)
+ .literal       0x00000524       0x1c Build/source/plc_lp_prcs_fx.picsl.o
+                                         0x38 (size before relaxing)
+ .literal       0x00000540        0x4 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crtend.o
+ .fini.literal  0x00000544        0x4 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crtbegin.o
+ .plt           0x00000548        0x0 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crti.o
+ *(.init.literal)
+ *(.init)
+ .init          0x00000548        0x3 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crti.o
+                0x00000548                _init
+ .init          0x0000054b        0x8 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crtbegin.o
+ .init          0x00000553        0x8 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crtend.o
+ .init          0x0000055b        0x2 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crtn.o
+ *(.literal .text .stub .literal.* .text.* .gnu.linkonce.literal.* .gnu.linkonce.t.*.literal .gnu.linkonce.t.*)
+ *fill*         0x0000055d        0x3 00000000
+ .text          0x00000560       0x4a C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crtbegin.o
+ *fill*         0x000005aa        0x2 00000000
+ .text          0x000005ac       0x71 Build/source/main_lib.picsl.o
+                0x000005ac                _start
+ *fill*         0x0000061d        0x3 00000000
+ .text          0x00000620      0x260 Build/source/lc3_codec_api.picsl.o
+                0x00000620                LC3_Get_Version
+                0x00000628                LC3_Enc_Get_MemSize
+                0x00000634                LC3_Enc_Init
+                0x000006ec                LC3_Enc_Set_BitRate
+                0x0000070c                LC3_Enc_Prcs
+                0x00000748                LC3_Dec_Get_MemSize
+                0x00000760                LC3_Dec_Get_Param
+                0x00000770                LC3_Dec_Init
+                0x00000854                LC3_Dec_Prcs
+ *fill*         0x00000880        0x0 00000000
+ .text          0x00000880      0x437 Build/source/lc3.picsl.o
+                0x00000880                lc3_version
+                0x00000888                lc3_channels_supported
+                0x00000894                lc3_samplerate_supported
+                0x000008e0                balloc
+                0x000008f8                lc3_enc_init
+                0x00000934                lc3_enc_get_size
+                0x0000095c                lc3_enc_get_scratch_size
+                0x00000984                lc3_enc_get_input_samples
+                0x00000994                lc3_enc_get_num_bytes
+                0x000009ac                lc3_enc_get_real_bitrate
+                0x00000a2c                lc3_enc_set_bitrate
+                0x00000a4c                lc3_enc_get_delay
+                0x00000a64                lc3_enc_set_frame_dms
+                0x00000a94                lc3_enc16
+                0x00000b0c                lc3_enc24
+                0x00000b28                lc3_dec_init
+                0x00000b6c                lc3_dec_get_size
+                0x00000b9c                lc3_dec_get_scratch_size
+                0x00000be4                lc3_dec_set_frame_dms
+                0x00000c10                lc3_dec_get_output_samples
+                0x00000c20                lc3_dec_get_delay
+                0x00000c38                lc3_dec16
+                0x00000c9c                lc3_dec24
+ *fill*         0x00000cb7        0x1 00000000
+ .text          0x00000cb8      0x9bc Build/source/basop_util.picsl.o
+                0x00000cb8                basop_memset
+                0x00000cd4                basop_memmove
+                0x00000cf0                BASOP_Util_Log2
+                0x00000d98                BASOP_Util_InvLog2
+                0x00000e34                Sqrt16
+                0x00000ec0                ISqrt16
+                0x00000f38                Inv16
+                0x00000fa4                getScaleFactor16
+                0x00000fb8                getScaleFactor16_0
+                0x00001034                getScaleFactor32_Q
+                0x0000107c                getScaleFactor32
+                0x000010d0                getScaleFactor32_0
+                0x00001124                BASOP_Util_Divide3216_Scale
+                0x000011c0                BASOP_Util_Divide1616_Scale
+                0x0000124c                Norm32Norm
+                0x00001314                Scale_sig
+                0x000013c4                Copy_Scale_sig
+                0x0000142c                BASOP_Util_Add_Mant32Exp
+                0x00001498                BASOP_Util_Cmp_Mant32Exp
+                0x00001568                Isqrt
+                0x000015d0                BASOP_Util_Log2_16
+                0x00001640                BASOP_Util_InvLog2_16
+ .text          0x00001674       0x9f Build/source/rom_basop_util.picsl.o
+                0x00001674                BASOP_getTables
+ *fill*         0x00001713        0x5 00000000
+ .text          0x00001718      0x482 Build/source/dct4_fx.picsl.o
+                0x00001718                dct_IV_XT
+                0x000018a0                dct_IV
+ *fill*         0x00001b9a        0x6 00000000
+ .text          0x00001ba0      0x120 Build/source/sns_interpolate_scf_fx.picsl.o
+                0x00001ba0                processSnsInterpolateScf_fx
+ .text          0x00001cc0      0xfff Build/source/ari_codec.picsl.o
+                0x00001cc0                processAriEncoder_fx
+                0x0000256c                processAriDecoder_fx
+                0x00002c00                processAriDecoderScaling_fx
+                0x00002c54                find_last_nz_pair
+ *fill*         0x00002cbf        0x1 00000000
+ .text          0x00002cc0      0x4db Build/source/sns_quantize_scf_fx.picsl.o
+                0x00002cc0                processSnsQuantizeScfEncoder_fx
+                0x0000304c                processSnsQuantizeScfDecoder_fx
+ *fill*         0x0000319b        0x5 00000000
+ .text          0x000031a0      0x2c2 Build/source/pvq_index_fx.picsl.o
+                0x000031a0                get_size_mpvq_calc_offset_fx
+                0x000031f4                mpvq_deindex_fx
+                0x000032a8                mpvq_index_fx
+ *fill*         0x00003462        0x6 00000000
+ .text          0x00003468      0x116 Build/source/pvq_dec_fx.picsl.o
+                0x00003468                pvq_dec_deidx_fx
+                0x000034b8                pvq_dec_scale_vec_fx
+                0x000034e4                pvq_dec_en1_normQ14_fx
+ *fill*         0x0000357e        0x2 00000000
+ .text          0x00003580      0xc7b Build/source/fft.picsl.o
+                0x00003580                BASOP_cfft
+ *fill*         0x000041fb        0x5 00000000
+ .text          0x00004200     0x2e91 Build/source/fft_stage.picsl.o
+                0x00004200                fix_fft2_stage
+                0x00004238                fix_fft6
+                0x00004438                fix_fft12
+                0x00004770                fix_fft16
+                0x00004db4                fix_fft5_8K
+                0x0000504c                fix_fft10
+                0x000055bc                fix_fft15
+                0x00005ccc                fix_fft20
+                0x000067d8                fix_fft30
+                0x00006ae4                fix_fft40
+ *fill*         0x00007091        0x7 00000000
+ .text          0x00007098       0x5b Build/source/apply_global_gain_fx.picsl.o
+                0x00007098                processApplyGlobalGain_fx
+ *fill*         0x000070f3        0x5 00000000
+ .text          0x000070f8      0x273 Build/source/imdct_fx.picsl.o
+                0x000070f8                ProcessingIMDCT
+ *fill*         0x0000736b        0x5 00000000
+ .text          0x00007370      0x2c6 Build/source/dec_entropy.picsl.o
+                0x00007370                processDecoderEntropy_fx
+ *fill*         0x00007636        0x2 00000000
+ .text          0x00007638      0x765 Build/source/dec_lc3.picsl.o
+                0x00007638                Dec_LC3
+ *fill*         0x00007d9d        0x3 00000000
+ .text          0x00007da0      0x68b Build/source/ltpf_decoder_fx.picsl.o
+                0x00007da0                process_ltpf_decoder_fx
+                0x00008284                ltpf_synth_filter
+ *fill*         0x0000842b        0x5 00000000
+ .text          0x00008430      0x158 Build/source/noise_filling_fx.picsl.o
+                0x00008430                processNoiseFilling_fx
+ .text          0x00008588      0x3ac Build/source/setup_dec_lc3.picsl.o
+                0x00008588                alloc_decoder
+                0x00008690                FillDecSetup
+                0x000087ac                set_dec_frame_params
+                0x00008868                update_dec_bitrate
+                0x00008924                get_decoder_min_max_bytes
+ *fill*         0x00008934        0x4 00000000
+ .text          0x00008938      0x1b6 Build/source/tns_decoder_fx.picsl.o
+                0x00008938                processTnsDecoder_fx
+ *fill*         0x00008aee        0x2 00000000
+ .text          0x00008af0       0x8e Build/source/plc_apply_fx.picsl.o
+                0x00008af0                processPLCapply_fx
+ *fill*         0x00008b7e        0x2 00000000
+ .text          0x00008b80       0x8a Build/source/plc_classify_fx.picsl.o
+                0x00008b80                processPLCclassify_fx
+ *fill*         0x00008c0a        0x2 00000000
+ .text          0x00008c0c      0x122 Build/source/plc_main_fx.picsl.o
+                0x00008c0c                processPLCmain_fx
+ *fill*         0x00008d2e        0x2 00000000
+ .text          0x00008d30       0xa5 Build/source/plc_update_fx.picsl.o
+                0x00008d30                processPLCupdate_fx
+                0x00008d9c                processPLCupdateSpec_fx
+ *fill*         0x00008dd5        0x3 00000000
+ .text          0x00008dd8      0x105 Build/source/adjust_global_gain_fx.picsl.o
+                0x00008dd8                processAdjustGlobalGain_fx
+ *fill*         0x00008edd        0x3 00000000
+ .text          0x00008ee0      0x2c4 Build/source/attack_detector_fx.picsl.o
+                0x00008ee0                attack_detector_fx
+ *fill*         0x000091a4        0x4 00000000
+ .text          0x000091a8      0x130 Build/source/detect_cutoff_warped_fx.picsl.o
+                0x000091a8                processDetectCutoffWarped_fx
+ .text          0x000092d8      0x31a Build/source/estimate_global_gain_fx.picsl.o
+                0x000092d8                processEstimateGlobalGain_fx
+ *fill*         0x000095f2        0x6 00000000
+ .text          0x000095f8      0x395 Build/source/levinson_fx.picsl.o
+                0x000095f8                processLevinson_fx
+                0x00009874                lpc2rc
+ *fill*         0x0000998d        0x3 00000000
+ .text          0x00009990      0x56e Build/source/ltpf_coder_fx.picsl.o
+                0x00009990                process_ltpf_coder_fx
+ *fill*         0x00009efe        0x2 00000000
+ .text          0x00009f00      0x1cd Build/source/mdct_fx.picsl.o
+                0x00009f00                processMdct_fx
+ *fill*         0x0000a0cd        0x3 00000000
+ .text          0x0000a0d0       0xf2 Build/source/near_nyquist_detector_fx.picsl.o
+                0x0000a0d0                processNearNyquistdetector_fx
+ *fill*         0x0000a1c2        0x6 00000000
+ .text          0x0000a1c8      0x18d Build/source/noise_factor_fx.picsl.o
+                0x0000a1c8                processNoiseFactor_fx
+ *fill*         0x0000a355        0x3 00000000
+ .text          0x0000a358      0x4c7 Build/source/olpa_fx.picsl.o
+                0x0000a358                process_olpa_fx
+ *fill*         0x0000a81f        0x1 00000000
+ .text          0x0000a820      0x2dc Build/source/per_band_energy_fx.picsl.o
+                0x0000a820                processPerBandEnergy_fx
+ *fill*         0x0000aafc        0x4 00000000
+ .text          0x0000ab00      0x639 Build/source/quantize_spec_fx.picsl.o
+                0x0000ab00                processQuantizeSpec_fx
+ *fill*         0x0000b139        0x7 00000000
+ .text          0x0000b140      0x26a Build/source/resamp12k8_fx.picsl.o
+                0x0000b140                process_resamp12k8_fx
+ *fill*         0x0000b3aa        0x6 00000000
+ .text          0x0000b3b0      0x22b Build/source/scale_signal24_fx.picsl.o
+                0x0000b3b0                scale_signal24_fx
+ *fill*         0x0000b5db        0x5 00000000
+ .text          0x0000b5e0      0x377 Build/source/sns_compute_scf_fx.picsl.o
+                0x0000b5e0                processSnsComputeScf_fx
+ *fill*         0x0000b957        0x1 00000000
+ .text          0x0000b958      0x539 Build/source/tns_coder_fx.picsl.o
+                0x0000b958                processTnsCoder_fx
+ *fill*         0x0000be91        0x3 00000000
+ .text          0x0000be94      0x632 Build/source/enc_lc3.picsl.o
+                0x0000be94                Enc_LC3
+ *fill*         0x0000c4c6        0x2 00000000
+ .text          0x0000c4c8      0x225 Build/source/enc_entropy.picsl.o
+                0x0000c4c8                processEncoderEntropy
+ *fill*         0x0000c6ed        0x3 00000000
+ .text          0x0000c6f0      0x619 Build/source/pvq_enc_fx.picsl.o
+                0x0000c6f0                one_pulse_search
+                0x0000c7a4                pvq_enc_search_fx
+ *fill*         0x0000cd09        0x7 00000000
+ .text          0x0000cd10      0x469 Build/source/setup_enc_lc3.picsl.o
+                0x0000cd10                alloc_encoder
+                0x0000cd98                FillEncSetup
+                0x0000ce44                set_enc_frame_params
+                0x0000cf40                update_enc_bitrate
+ *fill*         0x0000d179        0x7 00000000
+ .text          0x0000d180      0x63b Build/source/plc_lp_func.picsl.o
+                0x0000d180                celt_rcp
+                0x0000d220                frac_div32
+                0x0000d2d8                celt_inner_prod
+                0x0000d2f8                xcorr_kernel
+                0x0000d4c4                celt_pitch_xcorr
+                0x0000d55c                _celt_autocorr
+                0x0000d6cc                _celt_lpc
+ *fill*         0x0000d7bb        0x5 00000000
+ .text          0x0000d7c0      0x582 Build/source/plc_lp_prcs_fx.picsl.o
+                0x0000d7c0                tplc_noise_fx
+                0x0000d80c                tplc_buf_update_fx
+                0x0000d868                tplc_ola_fx
+                0x0000d90c                tplc_process_fx
+ *fill*         0x0000dd42        0x2 00000000
+ .text          0x0000dd44       0x1e C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crtend.o
+ .text          0x0000dd62        0x0 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crti.o
+ *fill*         0x0000dd62        0x0 00000000
+ *fill*         0x0000dd62        0x0 00000000
+ *fill*         0x0000dd62        0x2 00000000
+ .literal       0x0000dd64        0x0 Build/source/lc3_memory.picsl.o
+ *fill*         0x0000dd64        0x4 00000000
+ .text          0x0000dd68       0x5e Build/source/lc3_memory.picsl.o
+                0x0000dd68                memset
+                0x0000dd7c                memcpy
+ *fill*         0x0000ddc6        0x0 00000000
+ *fill*         0x0000ddc6        0x0 00000000
+ *fill*         0x0000ddc6        0x0 00000000
+ .text          0x0000ddc6        0x0 Build/source/constants.picsl.o
+ *fill*         0x0000ddc6        0x2 00000000
+ .text          0x0000ddc8       0x76 Build/source/basop32.picsl.o
+                0x0000ddc8                msu_r
+                0x0000dde0                L_mac0_sat
+                0x0000ddec                add_sat
+                0x0000ddf8                mac_r_sat
+                0x0000de10                L_shr_r
+ .text          0x0000de3e        0x0 Build/source/enh1632.picsl.o
+ *fill*         0x0000de3e        0x2 00000000
+ .text          0x0000de40       0x44 Build/source/enhUL32.picsl.o
+                0x0000de40                UL_addNs
+                0x0000de4c                Mpy_32_16_uu
+                0x0000de64                Mpy_32_32_uu
+                0x0000de74                UL_deposit_h
+                0x0000de7c                u_extract_h
+ .text          0x0000de84      0x893 Build/source/dct2_fx.picsl.o
+                0x0000de84                dct16_fx
+                0x0000e2fc                idct16_fx
+ *fill*         0x0000e717        0x0 00000000
+ *fill*         0x0000e717        0x0 00000000
+ *fill*         0x0000e717        0x1 00000000
+ .literal       0x0000e718        0x0 Build/source/mdct_shaping_fx.picsl.o
+ *fill*         0x0000e718        0x0 00000000
+ .text          0x0000e718       0x81 Build/source/mdct_shaping_fx.picsl.o
+                0x0000e718                processMdctShaping_fx
+                0x0000e758                processScfScaling
+ *fill*         0x0000e799        0x0 00000000
+ *fill*         0x0000e799        0x0 00000000
+ *fill*         0x0000e799        0x0 00000000
+ *fill*         0x0000e799        0x0 00000000
+ *fill*         0x0000e799        0x0 00000000
+ *fill*         0x0000e799        0x0 00000000
+ *fill*         0x0000e799        0x0 00000000
+ *fill*         0x0000e799        0x0 00000000
+ *fill*         0x0000e799        0x0 00000000
+ .text          0x0000e799        0x0 Build/source/fft_stage_hifi5.picsl.o
+ *fill*         0x0000e799        0x0 00000000
+ *fill*         0x0000e799        0x0 00000000
+ *fill*         0x0000e799        0x3 00000000
+ .text          0x0000e79c       0x3e Build/source/basop_mpy.picsl.o
+                0x0000e79c                cplxMpy_32_16
+ *fill*         0x0000e7da        0x0 00000000
+ *fill*         0x0000e7da        0x0 00000000
+ *fill*         0x0000e7da        0x0 00000000
+ *fill*         0x0000e7da        0x0 00000000
+ *fill*         0x0000e7da        0x0 00000000
+ *fill*         0x0000e7da        0x0 00000000
+ *fill*         0x0000e7da        0x0 00000000
+ *fill*         0x0000e7da        0x2 00000000
+ .text          0x0000e7dc       0x85 Build/source/residual_decoding_fx.picsl.o
+                0x0000e7dc                processResidualDecoding_fx
+ *fill*         0x0000e861        0x0 00000000
+ *fill*         0x0000e861        0x0 00000000
+ *fill*         0x0000e861        0x0 00000000
+ *fill*         0x0000e861        0x0 00000000
+ *fill*         0x0000e861        0x3 00000000
+ .literal       0x0000e864        0x0 Build/source/plc_noise_substitution_fx.picsl.o
+ *fill*         0x0000e864        0x4 00000000
+ .text          0x0000e868       0x6c Build/source/plc_noise_substitution_fx.picsl.o
+                0x0000e868                processPLCNoiseSubstitution0_fx
+ .text          0x0000e8d4       0x22 Build/source/plc_update_aft_imdct_fx.picsl.o
+                0x0000e8d4                processPLCUpdateAfterIMDCT_fx
+ *fill*         0x0000e8f6        0x0 00000000
+ *fill*         0x0000e8f6        0x0 00000000
+ *fill*         0x0000e8f6        0x0 00000000
+ *fill*         0x0000e8f6        0x0 00000000
+ *fill*         0x0000e8f6        0x0 00000000
+ *fill*         0x0000e8f6        0x0 00000000
+ *fill*         0x0000e8f6        0x0 00000000
+ *fill*         0x0000e8f6        0x0 00000000
+ *fill*         0x0000e8f6        0x0 00000000
+ *fill*         0x0000e8f6        0x0 00000000
+ *fill*         0x0000e8f6        0x0 00000000
+ *fill*         0x0000e8f6        0x0 00000000
+ *fill*         0x0000e8f6        0x0 00000000
+ *fill*         0x0000e8f6        0x0 00000000
+ *fill*         0x0000e8f6        0x0 00000000
+ *fill*         0x0000e8f6        0x0 00000000
+ *fill*         0x0000e8f6        0x2 00000000
+ .literal       0x0000e8f8        0x0 Build/source/residual_coding_fx.picsl.o
+ *fill*         0x0000e8f8        0x0 00000000
+ .text          0x0000e8f8       0x65 Build/source/residual_coding_fx.picsl.o
+                0x0000e8f8                processResidualCoding_fx
+ *fill*         0x0000e95d        0x0 00000000
+ *fill*         0x0000e95d        0x0 00000000
+ *fill*         0x0000e95d        0x0 00000000
+ *fill*         0x0000e95d        0x0 00000000
+ *fill*         0x0000e95d        0x0 00000000
+ *fill*         0x0000e95d        0x0 00000000
+ *fill*         0x0000e95d        0x0 00000000
+ *fill*         0x0000e95d        0x0 00000000
+ *fill*         0x0000e95d        0x0 00000000
+ *fill*         0x0000e95d        0x0 00000000
+ *fill*         0x0000e95d        0x0 00000000
+ *fill*         0x0000e95d        0x0 00000000
+ *fill*         0x0000e95d        0x0 00000000
+ *fill*         0x0000e95d        0x0 00000000
+ *fill*         0x0000e95d        0x0 00000000
+ *fill*         0x0000e95d        0x0 00000000
+ .text          0x0000e95d        0x0 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crtn.o
+ *(.clib.literal .clib.text)
+ *(.text.*personality*)
+ *(.gnu.warning)
+ *(.fini.literal)
+ *fill*         0x0000e95d        0x0 00000000
+ *(.fini)
+ *fill*         0x0000e95d        0x3 00000000
+ .fini          0x0000e960        0x3 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crti.o
+                0x0000e960                _fini
+ .fini          0x0000e963        0x8 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crtbegin.o
+ .fini          0x0000e96b        0x2 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crtn.o
+                [!provide]                        PROVIDE (__etext = .)
+                [!provide]                        PROVIDE (_etext = .)
+                [!provide]                        PROVIDE (etext = .)
+
+.dynamic        0x0000e970       0xa8
+                0x0000e970        0x4 LONG 0x70000002
+                0x0000e974        0x4 LONG 0x0 _text_start
+ *(.dynamic)
+ .dynamic       0x0000e978       0xa0 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crti.o
+                0x0000e978                _DYNAMIC
+
+.hash           0x0000ea18       0x10
+ *(.hash)
+ .hash          0x0000ea18       0x10 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crti.o
+
+.dynsym         0x0000ea28       0x10
+ *(.dynsym)
+ .dynsym        0x0000ea28       0x10 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crti.o
+
+.dynstr         0x0000ea38        0x1
+ *(.dynstr)
+ .dynstr        0x0000ea38        0x1 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crti.o
+
+.gnu.version    0x0000ea3a        0x0
+ *(.gnu.version)
+ .gnu.version   0x0000ea3a        0x0 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crti.o
+
+.gnu.version_d  0x0000ea3c        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x0000ea3c        0x0 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crti.o
+
+.gnu.version_r  0x0000ea3c        0x0
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x0000ea3c        0x0 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crti.o
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+
+.rela.text
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+
+.rela.rodata
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+
+.rel.data.rel.ro
+ *(.rel.data.rel.ro*)
+
+.rela.data.rel.ro
+ *(.rel.data.rel.ro*)
+
+.rel.data
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+
+.rela.data
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+
+.rel.tdata
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+
+.rela.tdata
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+
+.rel.tbss
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+
+.rela.tbss
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got       0x0000ea3c     0x11f4
+ *(.rela.got)
+ .rela.got      0x0000ea3c     0x11f4 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crti.o
+
+.rel.bss
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+
+.rela.bss
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt       0x0000fc30        0x0
+ *(.rela.plt)
+ .rela.plt      0x0000fc30        0x0 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crti.o
+
+.got            0x0000fc30        0x4
+ *(.got)
+ .got           0x0000fc30        0x4 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crti.o
+
+.got.loc        0x0000fc34      0x188
+ *(.got.loc)
+ .got.loc       0x0000fc34      0x188 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crti.o
+
+.clib.rodata
+ *(.clib.rodata)
+
+.rtos.rodata
+ *(.rtos.rodata)
+
+.clib.data
+ *(.clib.data)
+
+.rtos.data
+ *(.rtos.data)
+
+.clib.percpu.data
+ *(.clib.percpu.data)
+
+.rtos.percpu.data
+ *(.rtos.percpu.data)
+
+.rodata
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+
+.interp         0x0000fdbc        0xb
+ .interp        0x0000fdbc        0xb C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crti.o
+
+.rodata1
+ *(.rodata1)
+
+.xt_except_table
+ *(.xt_except_table)
+
+.eh_frame       0x0000fdc8        0x4
+ *(.eh_frame)
+ .eh_frame      0x0000fdc8        0x0 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crtbegin.o
+ .eh_frame      0x0000fdc8        0x4 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crtend.o
+
+.gcc_except_table
+ *(.gcc_except_table)
+ *(.gcc_except_table.*)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table)
+ *(.gcc_except_table.*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+                0x0000fdcc                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__preinit_array_start = .)
+
+.preinit_array
+ *(.preinit_array)
+                [!provide]                        PROVIDE (__preinit_array_end = .)
+                [!provide]                        PROVIDE (__init_array_start = .)
+
+.init_array
+ *(.init_array)
+                [!provide]                        PROVIDE (__init_array_end = .)
+                [!provide]                        PROVIDE (__fini_array_start = .)
+
+.fini_array
+ *(.fini_array)
+                [!provide]                        PROVIDE (__fini_array_end = .)
+
+.ctors          0x0000fdcc        0x8
+ *crtbegin*.o(.ctors)
+ .ctors         0x0000fdcc        0x4 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crtbegin.o
+ *(EXCLUDE_FILE(*crtend*.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+ .ctors         0x0000fdd0        0x4 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crtend.o
+
+.dtors          0x0000fdd4        0x8
+ *crtbegin*.o(.dtors)
+ .dtors         0x0000fdd4        0x4 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crtbegin.o
+ *(EXCLUDE_FILE(*crtend*.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+ .dtors         0x0000fdd8        0x4 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crtend.o
+
+.jcr
+ *(.jcr)
+
+.data.rel.ro
+ *(.data.rel.ro.local)
+ *(.data.rel.ro*)
+
+.data           0x0000fde0     0xb5b4
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x0000fde0        0x0 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crti.o
+ .data          0x0000fde0       0x24 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crtbegin.o
+                0x0000fde0                __dso_handle
+ *fill*         0x0000fe04        0xc 
+ .data          0x0000fe10       0xd6 Build/source/main_lib.picsl.o
+                0x0000fe10                export_parameter_array
+ .data          0x0000fee6        0x0 Build/source/lc3_memory.picsl.o
+ .data          0x0000fee6        0x0 Build/source/lc3_codec_api.picsl.o
+ .data          0x0000fee6        0x0 Build/source/lc3.picsl.o
+ .data          0x0000fee6        0x0 Build/source/basop_util.picsl.o
+ *fill*         0x0000fee6        0xa 
+ .data          0x0000fef0     0x3ea0 Build/source/rom_basop_util.picsl.o
+                0x0000fef0                ldCoeff
+                0x0000ff00                ldCoeff_Hifi5
+                0x0000ff10                exp2_tab_long
+                0x0000ff90                exp2w_tab_long
+                0x00010010                exp2x_tab_long
+                0x00010090                SqrtTable
+                0x00010110                SqrtDiffTable
+                0x00010150                ISqrtTable
+                0x000101d0                ISqrtDiffTable
+                0x00010210                InvTable
+                0x00010290                InvIntTable
+                0x000102d0                InvDiffTable
+                0x00010310                SineTable480
+                0x000106e0                SineTable360
+                0x000109c0                SineTable320
+                0x00010c50                SineWindow60
+                0x00010cd0                SineWindow80
+                0x00010d70                SineWindow120
+                0x00010e60                SineWindow128
+                0x00010f60                SineWindow160
+                0x000110a0                SineWindow180
+                0x00011210                SineWindow240
+                0x000113f0                SineWindow320
+                0x00011670                SineWindow360
+                0x00011940                SineWindow480
+                0x00011d00                RotVector_32_32
+                0x00011da0                RotVector_40_32
+                0x00011e80                RotVector_480
+                0x00012590                RotVector_360
+                0x00012ac0                RotVector_320
+                0x00012f70                RotVector_32_8
+                0x000132f0                RotVector_15_6
+                0x00013420                RotVector_32_12
+                0x000139a0                isqrt_table
+                0x00013bb0                Log2_16_table1
+                0x00013bf0                Log2_16_table2
+                0x00013c10                InvLog2_16_table1
+                0x00013d10                InvLog2_16_table2
+ .data          0x00013d90     0x6e32 Build/source/constants.picsl.o
+                0x00013d90                plc_preemph_fac
+                0x00013da0                LowDelayShapes_n960_N80
+                0x00013eb0                LowDelayShapes_n960_N160
+                0x000140c0                LowDelayShapes_n960_N240
+                0x000143d0                LowDelayShapes_n960_N320
+                0x000147e0                LowDelayShapes_n960_N480
+                0x00014e00                LowDelayShapes_n960_N60_7_5ms
+                0x00014ee0                LowDelayShapes_n960_N120_7_5ms
+                0x00015090                LowDelayShapes_n960_N180_7_5ms
+                0x00015310                LowDelayShapes_n960_N240_7_5ms
+                0x00015660                LowDelayShapes_n960_N360_7_5ms
+                0x00015b58                NN_thresh
+                0x00015b60                NN_thresh_exp
+                0x00015b70                BW_cutoff_bits_all
+                0x00015b80                BW_thresh_quiet
+                0x00015b90                BW_thresh_quiet_exp
+                0x00015b98                BW_thresh_brickwall
+                0x00015ba0                BW_brickwall_dist
+                0x00015ba8                BW_warp_idx_start_16k
+                0x00015bb0                BW_warp_idx_stop_16k
+                0x00015bb8                BW_warp_idx_start_24k
+                0x00015bc0                BW_warp_idx_stop_24k
+                0x00015bc8                BW_warp_idx_start_32k
+                0x00015bd0                BW_warp_idx_stop_32k
+                0x00015bd8                BW_warp_idx_start_48k
+                0x00015be0                BW_warp_idx_stop_48k
+                0x00015bf0                BW_warp_idx_start_all
+                0x00015c00                BW_warp_idx_stop_all
+                0x00015c10                BW_brickwall_dist_7_5ms
+                0x00015c18                BW_warp_idx_start_16k_7_5ms
+                0x00015c20                BW_warp_idx_stop_16k_7_5ms
+                0x00015c28                BW_warp_idx_start_24k_7_5ms
+                0x00015c30                BW_warp_idx_stop_24k_7_5ms
+                0x00015c38                BW_warp_idx_start_32k_7_5ms
+                0x00015c40                BW_warp_idx_stop_32k_7_5ms
+                0x00015c48                BW_warp_idx_start_48k_7_5ms
+                0x00015c50                BW_warp_idx_stop_48k_7_5ms
+                0x00015c60                BW_warp_idx_start_all_7_5ms
+                0x00015c70                BW_warp_idx_stop_all_7_5ms
+                0x00015c80                BW_cutoff_bin_all
+                0x00015c90                LowDelayShapes_n960_len
+                0x00015ca0                LowDelayShapes_n960_la_zeroes
+                0x00015cb0                LowDelayShapes_n960
+                0x00015cd0                LowDelayShapes_n960_len_7_5ms
+                0x00015ce0                LowDelayShapes_n960_la_zeroes_7_5ms
+                0x00015cf0                LowDelayShapes_n960_7_5ms
+                0x00015d10                tns_subdiv_startfreq_8k
+                0x00015d20                tns_subdiv_stopfreq_8k
+                0x00015d30                tns_subdiv_startfreq_16k
+                0x00015d40                tns_subdiv_stopfreq_16k
+                0x00015d50                tns_subdiv_startfreq_24k
+                0x00015d60                tns_subdiv_stopfreq_24k
+                0x00015d70                tns_subdiv_startfreq_32k
+                0x00015d80                tns_subdiv_stopfreq_32k
+                0x00015d90                tns_subdiv_startfreq_48k
+                0x00015da0                tns_subdiv_stopfreq_48k
+                0x00015db0                tns_subdiv_startfreq
+                0x00015dd0                tns_subdiv_stopfreq
+                0x00015df0                tns_subdiv_startfreq_8k_7_5ms
+                0x00015e00                tns_subdiv_stopfreq_8k_7_5ms
+                0x00015e10                tns_subdiv_startfreq_16k_7_5ms
+                0x00015e20                tns_subdiv_stopfreq_16k_7_5ms
+                0x00015e30                tns_subdiv_startfreq_24k_7_5ms
+                0x00015e40                tns_subdiv_stopfreq_24k_7_5ms
+                0x00015e50                tns_subdiv_startfreq_32k_7_5ms
+                0x00015e60                tns_subdiv_stopfreq_32k_7_5ms
+                0x00015e70                tns_subdiv_startfreq_48k_7_5ms
+                0x00015e80                tns_subdiv_stopfreq_48k_7_5ms
+                0x00015e90                tns_subdiv_startfreq_7_5ms
+                0x00015eb0                tns_subdiv_stopfreq_7_5ms
+                0x00015ec8                Tab_esc_nb
+                0x00015ed0                ari_spec_lookup
+                0x00016ed0                ari_spec_cumfreq
+                0x00017750                ari_spec_freq
+                0x00017fd0                ari_spec_bits
+                0x00018850                tnsAcfWindow
+                0x00018870                tnsQuantPts
+                0x000188a0                tnsQuantThr
+                0x000188c0                ac_tns_order_bits
+                0x000188e0                ac_tns_order_freq
+                0x00018900                ac_tns_order_cumfreq
+                0x00018920                ac_tns_coef_bits
+                0x00018a30                ac_tns_coef_freq
+                0x00018b40                ac_tns_coef_cumfreq
+                0x00018c50                lpc_warp_pre_emphasis_64_8000
+                0x00018cd0                lpc_warp_pre_emphasis_64_e_8000
+                0x00018d50                lpc_warp_pre_emphasis_64_16000
+                0x00018dd0                lpc_warp_pre_emphasis_64_e_16000
+                0x00018e50                lpc_warp_pre_emphasis_64_24000
+                0x00018ed0                lpc_warp_pre_emphasis_64_e_24000
+                0x00018f50                lpc_warp_pre_emphasis_64_32000
+                0x00018fd0                lpc_warp_pre_emphasis_64_e_32000
+                0x00019050                lpc_warp_pre_emphasis_64_48000
+                0x000190d0                lpc_warp_pre_emphasis_64_e_48000
+                0x00019150                lpc_pre_emphasis
+                0x00019170                lpc_pre_emphasis_e
+                0x00019190                bands_nrg_scale
+                0x000191d0                bands_offset_8000_lpc_warp
+                0x00019260                bands_offset_16000_lpc_warp
+                0x000192f0                bands_offset_24000_lpc_warp
+                0x00019380                bands_offset_32000_lpc_warp
+                0x00019410                bands_offset_48000_lpc_warp
+                0x000194a0                bands_offset_8000_lpc_warp_7_5ms
+                0x00019520                bands_offset_16000_lpc_warp_7_5ms
+                0x000195b0                bands_offset_24000_lpc_warp_7_5ms
+                0x00019640                bands_offset_32000_lpc_warp_7_5ms
+                0x000196d0                bands_offset_48000_lpc_warp_7_5ms
+                0x00019760                bands_offset
+                0x00019780                bands_offset_with_one_max
+                0x00019790                bands_offset_with_two_max
+                0x000197a0                bands_offset_7_5ms
+                0x000197c0                bands_offset_with_one_max_7_5ms
+                0x000197d0                bands_offset_with_two_max_7_5ms
+                0x000197e0                bands_number_7_5ms
+                0x000197f0                resamp_filt_8k
+                0x000199d0                resamp_filt_16k
+                0x00019bb0                resamp_filt_24k
+                0x00019d90                resamp_filt_32k
+                0x00019f70                resamp_filt_48k
+                0x0001a150                resamp_filts
+                0x0001a170                resamp_params
+                0x0001a198                highpass50_filt_num
+                0x0001a1a0                highpass50_filt_den
+                0x0001a1b0                olpa_ac_weighting
+                0x0001a280                ltpf_ac_interp_filt
+                0x0001a300                inter_filter
+                0x0001a4e0                inter_filter_shift
+                0x0001a4f0                inter_filter_len
+                0x0001a500                tilt_filter_len
+                0x0001a510                gain_scale_fac
+                0x0001a520                pitch_scale
+                0x0001a530                ltpf_overlap_len
+                0x0001a540                sns_vq_reg_adj_gains
+                0x0001a548                sns_vq_reg_lf_adj_gains
+                0x0001a550                sns_vq_near_adj_gains
+                0x0001a560                sns_vq_far_adj_gains
+                0x0001a570                sns_gaintabPtr
+                0x0001a580                sns_gainSz
+                0x0001a588                sns_gainMSBbits
+                0x0001a590                sns_gainLSBbits
+                0x0001a5a0                sns_Kval
+                0x0001a5b0                sns_MPVQ_Sz
+                0x0001a5d0                st1SCF0_7_base5_32x8_Q14
+                0x0001a7d0                st1SCF8_15_base5_32x8_Q14
+                0x0001a9d0                h_memN16K12
+                0x0001aa10                h_memN10K22
+                0x0001aa70                h_memN6K2
+                0x0001aa80                MPVQ_offs_ptr
+                0x0001aad0                tabledKMAX
+                0x0001ab00                isqrt_Q16tab
+                0x0001ab90                adjust_global_gain_tables
+ *fill*         0x0001abc2        0x2 
+ .data          0x0001abc4        0x4 Build/source/basop32.picsl.o
+                0x0001abc4                overflow_warning_enable
+ .data          0x0001abc8        0x0 Build/source/enh1632.picsl.o
+ .data          0x0001abc8        0x0 Build/source/enhUL32.picsl.o
+ .data          0x0001abc8        0x0 Build/source/dct2_fx.picsl.o
+ .data          0x0001abc8        0x0 Build/source/dct4_fx.picsl.o
+ .data          0x0001abc8        0x0 Build/source/mdct_shaping_fx.picsl.o
+ .data          0x0001abc8        0x0 Build/source/sns_interpolate_scf_fx.picsl.o
+ *fill*         0x0001abc8        0x8 
+ .data          0x0001abd0      0x15c Build/source/ari_codec.picsl.o
+                0x0001abd0                Tab_T
+ .data          0x0001ad2c        0x0 Build/source/sns_quantize_scf_fx.picsl.o
+ .data          0x0001ad2c        0x0 Build/source/pvq_index_fx.picsl.o
+ .data          0x0001ad2c        0x0 Build/source/pvq_dec_fx.picsl.o
+ .data          0x0001ad2c        0x0 Build/source/fft.picsl.o
+ .data          0x0001ad2c        0x0 Build/source/fft_stage.picsl.o
+ .data          0x0001ad2c        0x0 Build/source/fft_stage_hifi5.picsl.o
+ .data          0x0001ad2c        0x0 Build/source/apply_global_gain_fx.picsl.o
+ .data          0x0001ad2c        0x0 Build/source/basop_mpy.picsl.o
+ .data          0x0001ad2c        0x0 Build/source/imdct_fx.picsl.o
+ .data          0x0001ad2c        0x0 Build/source/dec_entropy.picsl.o
+ *fill*         0x0001ad2c        0x4 
+ .data          0x0001ad30      0x100 Build/source/dec_lc3.picsl.o
+                0x0001ad30                BitReverseTable256
+ .data          0x0001ae30      0x3d0 Build/source/ltpf_decoder_fx.picsl.o
+                0x0001ae30                tilt_filter_len_EO
+                0x0001ae40                tilt_filter_EVEN
+                0x0001b020                tilt_filter_ODD
+ .data          0x0001b200        0x0 Build/source/noise_filling_fx.picsl.o
+ .data          0x0001b200        0x0 Build/source/residual_decoding_fx.picsl.o
+ .data          0x0001b200        0x0 Build/source/setup_dec_lc3.picsl.o
+ .data          0x0001b200        0x0 Build/source/tns_decoder_fx.picsl.o
+ .data          0x0001b200        0x0 Build/source/plc_apply_fx.picsl.o
+ .data          0x0001b200        0x0 Build/source/plc_classify_fx.picsl.o
+ .data          0x0001b200        0x0 Build/source/plc_main_fx.picsl.o
+ .data          0x0001b200        0x0 Build/source/plc_noise_substitution_fx.picsl.o
+ .data          0x0001b200        0x0 Build/source/plc_update_aft_imdct_fx.picsl.o
+ .data          0x0001b200        0x0 Build/source/plc_update_fx.picsl.o
+ .data          0x0001b200        0x0 Build/source/adjust_global_gain_fx.picsl.o
+ .data          0x0001b200        0x0 Build/source/attack_detector_fx.picsl.o
+ .data          0x0001b200        0x0 Build/source/detect_cutoff_warped_fx.picsl.o
+ .data          0x0001b200        0x0 Build/source/estimate_global_gain_fx.picsl.o
+ .data          0x0001b200        0x0 Build/source/levinson_fx.picsl.o
+ .data          0x0001b200        0x0 Build/source/ltpf_coder_fx.picsl.o
+ .data          0x0001b200        0x0 Build/source/mdct_fx.picsl.o
+ .data          0x0001b200        0x0 Build/source/near_nyquist_detector_fx.picsl.o
+ .data          0x0001b200        0x0 Build/source/noise_factor_fx.picsl.o
+ .data          0x0001b200        0x0 Build/source/olpa_fx.picsl.o
+ .data          0x0001b200        0x0 Build/source/per_band_energy_fx.picsl.o
+ .data          0x0001b200       0x20 Build/source/quantize_spec_fx.picsl.o
+ .data          0x0001b220        0x0 Build/source/resamp12k8_fx.picsl.o
+ .data          0x0001b220        0x0 Build/source/residual_coding_fx.picsl.o
+ .data          0x0001b220        0x0 Build/source/scale_signal24_fx.picsl.o
+ .data          0x0001b220        0x0 Build/source/sns_compute_scf_fx.picsl.o
+ .data          0x0001b220        0x0 Build/source/tns_coder_fx.picsl.o
+ .data          0x0001b220        0x0 Build/source/enc_lc3.picsl.o
+ .data          0x0001b220        0xa Build/source/enc_entropy.picsl.o
+ .data          0x0001b22a        0x0 Build/source/pvq_enc_fx.picsl.o
+ .data          0x0001b22a        0x0 Build/source/setup_enc_lc3.picsl.o
+ *fill*         0x0001b22a        0x6 
+ .data          0x0001b230      0x164 Build/source/plc_lp_func.picsl.o
+                0x0001b230                T_mdct_gain_10ms
+                0x0001b240                T_mdct_gain_7_5ms
+                0x0001b250                T_div_1_frame_10ms
+                0x0001b260                T_div_1_frame_7_5ms
+                0x0001b270                T_fs_Hz
+                0x0001b290                tplc_lagwin_8k
+                0x0001b2c0                tplc_lagwin_16k
+                0x0001b2f0                tplc_lagwin_24k
+                0x0001b320                tplc_lagwin_32k
+                0x0001b350                tplc_lagwin_48k
+                0x0001b380                T_lagwin
+ .data          0x0001b394        0x0 Build/source/plc_lp_prcs_fx.picsl.o
+ .data          0x0001b394        0x0 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crtend.o
+ .data          0x0001b394        0x0 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crtn.o
+ *(.gnu.linkonce.d.*personality*)
+
+.data1
+ *(.data1)
+
+.xt_except_desc
+ *(.xt_except_desc .gnu.linkonce.h.*)
+ *(.xt_except_desc_end)
+                0x0001b394                _edata = .
+                [!provide]                        PROVIDE (edata = .)
+                0x0001b394                __bss_start = .
+
+.bss            0x0001b394       0x20
+ *(.dynbss)
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x0001b394        0x0 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crti.o
+ .bss           0x0001b394        0x0 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crtbegin.o
+ .bss           0x0001b394        0x4 Build/source/main_lib.picsl.o
+                0x0001b394                printf_ptr
+ .bss           0x0001b398        0x0 Build/source/lc3_memory.picsl.o
+ .bss           0x0001b398        0x0 Build/source/lc3_codec_api.picsl.o
+ .bss           0x0001b398        0x0 Build/source/lc3.picsl.o
+ .bss           0x0001b398        0x0 Build/source/basop_util.picsl.o
+ .bss           0x0001b398        0x0 Build/source/rom_basop_util.picsl.o
+ .bss           0x0001b398        0x0 Build/source/constants.picsl.o
+ .bss           0x0001b398        0x8 Build/source/basop32.picsl.o
+                0x0001b398                overflow_warning_disable_counter
+                0x0001b39c                overflow_error_enable
+ .bss           0x0001b3a0        0x0 Build/source/enh1632.picsl.o
+ .bss           0x0001b3a0        0x0 Build/source/enhUL32.picsl.o
+ .bss           0x0001b3a0        0x0 Build/source/dct2_fx.picsl.o
+ .bss           0x0001b3a0        0x0 Build/source/dct4_fx.picsl.o
+ .bss           0x0001b3a0        0x0 Build/source/mdct_shaping_fx.picsl.o
+ .bss           0x0001b3a0        0x0 Build/source/sns_interpolate_scf_fx.picsl.o
+ .bss           0x0001b3a0        0x0 Build/source/ari_codec.picsl.o
+ .bss           0x0001b3a0        0x0 Build/source/sns_quantize_scf_fx.picsl.o
+ .bss           0x0001b3a0        0x0 Build/source/pvq_index_fx.picsl.o
+ .bss           0x0001b3a0        0x0 Build/source/pvq_dec_fx.picsl.o
+ .bss           0x0001b3a0        0x0 Build/source/fft.picsl.o
+ .bss           0x0001b3a0        0x0 Build/source/fft_stage.picsl.o
+ .bss           0x0001b3a0        0x0 Build/source/fft_stage_hifi5.picsl.o
+ .bss           0x0001b3a0        0x0 Build/source/apply_global_gain_fx.picsl.o
+ .bss           0x0001b3a0        0x0 Build/source/basop_mpy.picsl.o
+ .bss           0x0001b3a0        0x0 Build/source/imdct_fx.picsl.o
+ .bss           0x0001b3a0        0x0 Build/source/dec_entropy.picsl.o
+ .bss           0x0001b3a0        0x8 Build/source/dec_lc3.picsl.o
+                0x0001b3a0                g_p_dec_based
+                0x0001b3a4                g_p_dec_stream
+ .bss           0x0001b3a8        0x0 Build/source/ltpf_decoder_fx.picsl.o
+ .bss           0x0001b3a8        0x0 Build/source/noise_filling_fx.picsl.o
+ .bss           0x0001b3a8        0x0 Build/source/residual_decoding_fx.picsl.o
+ .bss           0x0001b3a8        0x0 Build/source/setup_dec_lc3.picsl.o
+ .bss           0x0001b3a8        0x0 Build/source/tns_decoder_fx.picsl.o
+ .bss           0x0001b3a8        0x0 Build/source/plc_apply_fx.picsl.o
+ .bss           0x0001b3a8        0x0 Build/source/plc_classify_fx.picsl.o
+ .bss           0x0001b3a8        0x0 Build/source/plc_main_fx.picsl.o
+ .bss           0x0001b3a8        0x0 Build/source/plc_noise_substitution_fx.picsl.o
+ .bss           0x0001b3a8        0x0 Build/source/plc_update_aft_imdct_fx.picsl.o
+ .bss           0x0001b3a8        0x0 Build/source/plc_update_fx.picsl.o
+ .bss           0x0001b3a8        0x0 Build/source/adjust_global_gain_fx.picsl.o
+ .bss           0x0001b3a8        0x0 Build/source/attack_detector_fx.picsl.o
+ .bss           0x0001b3a8        0x0 Build/source/detect_cutoff_warped_fx.picsl.o
+ .bss           0x0001b3a8        0x0 Build/source/estimate_global_gain_fx.picsl.o
+ .bss           0x0001b3a8        0x0 Build/source/levinson_fx.picsl.o
+ .bss           0x0001b3a8        0x0 Build/source/ltpf_coder_fx.picsl.o
+ .bss           0x0001b3a8        0x0 Build/source/mdct_fx.picsl.o
+ .bss           0x0001b3a8        0x0 Build/source/near_nyquist_detector_fx.picsl.o
+ .bss           0x0001b3a8        0x0 Build/source/noise_factor_fx.picsl.o
+ .bss           0x0001b3a8        0x0 Build/source/olpa_fx.picsl.o
+ .bss           0x0001b3a8        0x0 Build/source/per_band_energy_fx.picsl.o
+ .bss           0x0001b3a8        0x0 Build/source/quantize_spec_fx.picsl.o
+ .bss           0x0001b3a8        0x0 Build/source/resamp12k8_fx.picsl.o
+ .bss           0x0001b3a8        0x0 Build/source/residual_coding_fx.picsl.o
+ .bss           0x0001b3a8        0x0 Build/source/scale_signal24_fx.picsl.o
+ .bss           0x0001b3a8        0x0 Build/source/sns_compute_scf_fx.picsl.o
+ .bss           0x0001b3a8        0x0 Build/source/tns_coder_fx.picsl.o
+ .bss           0x0001b3a8        0x8 Build/source/enc_lc3.picsl.o
+                0x0001b3a8                g_p_enc_based
+                0x0001b3ac                g_p_enc_stream
+ .bss           0x0001b3b0        0x0 Build/source/enc_entropy.picsl.o
+ .bss           0x0001b3b0        0x0 Build/source/pvq_enc_fx.picsl.o
+ .bss           0x0001b3b0        0x0 Build/source/setup_enc_lc3.picsl.o
+ .bss           0x0001b3b0        0x4 Build/source/plc_lp_func.picsl.o
+                0x0001b3b0                gg
+ .bss           0x0001b3b4        0x0 Build/source/plc_lp_prcs_fx.picsl.o
+ .bss           0x0001b3b4        0x0 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crtend.o
+ .bss           0x0001b3b4        0x0 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crtn.o
+ *(.clib.bss)
+ *(.clib.percpu.bss)
+ *(.rtos.bss)
+ *(.rtos.percpu.bss)
+ *(COMMON)
+                0x0001b3b4                . = ALIGN (0x4)
+                0x0001b3b4                . = ALIGN (0x4)
+                0x0001b3b4                _end = .
+                [!provide]                        PROVIDE (end = .)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x5f
+ *(.comment)
+ .comment       0x00000000       0x28 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crtbegin.o
+                                         0x29 (size before relaxing)
+ .comment       0x00000028       0x37 Build/source/main_lib.picsl.o
+                                         0x38 (size before relaxing)
+ .comment       0x0000005f       0x38 Build/source/lc3_memory.picsl.o
+ .comment       0x0000005f       0x38 Build/source/lc3_codec_api.picsl.o
+ .comment       0x0000005f       0x38 Build/source/lc3.picsl.o
+ .comment       0x0000005f       0x38 Build/source/basop_util.picsl.o
+ .comment       0x0000005f       0x38 Build/source/rom_basop_util.picsl.o
+ .comment       0x0000005f       0x38 Build/source/constants.picsl.o
+ .comment       0x0000005f       0x38 Build/source/basop32.picsl.o
+ .comment       0x0000005f       0x38 Build/source/enh1632.picsl.o
+ .comment       0x0000005f       0x38 Build/source/enhUL32.picsl.o
+ .comment       0x0000005f       0x38 Build/source/dct2_fx.picsl.o
+ .comment       0x0000005f       0x38 Build/source/dct4_fx.picsl.o
+ .comment       0x0000005f       0x38 Build/source/mdct_shaping_fx.picsl.o
+ .comment       0x0000005f       0x38 Build/source/sns_interpolate_scf_fx.picsl.o
+ .comment       0x0000005f       0x38 Build/source/ari_codec.picsl.o
+ .comment       0x0000005f       0x38 Build/source/sns_quantize_scf_fx.picsl.o
+ .comment       0x0000005f       0x38 Build/source/pvq_index_fx.picsl.o
+ .comment       0x0000005f       0x38 Build/source/pvq_dec_fx.picsl.o
+ .comment       0x0000005f       0x38 Build/source/fft.picsl.o
+ .comment       0x0000005f       0x38 Build/source/fft_stage.picsl.o
+ .comment       0x0000005f       0x38 Build/source/fft_stage_hifi5.picsl.o
+ .comment       0x0000005f       0x38 Build/source/apply_global_gain_fx.picsl.o
+ .comment       0x0000005f       0x38 Build/source/basop_mpy.picsl.o
+ .comment       0x0000005f       0x38 Build/source/imdct_fx.picsl.o
+ .comment       0x0000005f       0x38 Build/source/dec_entropy.picsl.o
+ .comment       0x0000005f       0x38 Build/source/dec_lc3.picsl.o
+ .comment       0x0000005f       0x38 Build/source/ltpf_decoder_fx.picsl.o
+ .comment       0x0000005f       0x38 Build/source/noise_filling_fx.picsl.o
+ .comment       0x0000005f       0x38 Build/source/residual_decoding_fx.picsl.o
+ .comment       0x0000005f       0x38 Build/source/setup_dec_lc3.picsl.o
+ .comment       0x0000005f       0x38 Build/source/tns_decoder_fx.picsl.o
+ .comment       0x0000005f       0x38 Build/source/plc_apply_fx.picsl.o
+ .comment       0x0000005f       0x38 Build/source/plc_classify_fx.picsl.o
+ .comment       0x0000005f       0x38 Build/source/plc_main_fx.picsl.o
+ .comment       0x0000005f       0x38 Build/source/plc_noise_substitution_fx.picsl.o
+ .comment       0x0000005f       0x38 Build/source/plc_update_aft_imdct_fx.picsl.o
+ .comment       0x0000005f       0x38 Build/source/plc_update_fx.picsl.o
+ .comment       0x0000005f       0x38 Build/source/adjust_global_gain_fx.picsl.o
+ .comment       0x0000005f       0x38 Build/source/attack_detector_fx.picsl.o
+ .comment       0x0000005f       0x38 Build/source/detect_cutoff_warped_fx.picsl.o
+ .comment       0x0000005f       0x38 Build/source/estimate_global_gain_fx.picsl.o
+ .comment       0x0000005f       0x38 Build/source/levinson_fx.picsl.o
+ .comment       0x0000005f       0x38 Build/source/ltpf_coder_fx.picsl.o
+ .comment       0x0000005f       0x38 Build/source/mdct_fx.picsl.o
+ .comment       0x0000005f       0x38 Build/source/near_nyquist_detector_fx.picsl.o
+ .comment       0x0000005f       0x38 Build/source/noise_factor_fx.picsl.o
+ .comment       0x0000005f       0x38 Build/source/olpa_fx.picsl.o
+ .comment       0x0000005f       0x38 Build/source/per_band_energy_fx.picsl.o
+ .comment       0x0000005f       0x38 Build/source/quantize_spec_fx.picsl.o
+ .comment       0x0000005f       0x38 Build/source/resamp12k8_fx.picsl.o
+ .comment       0x0000005f       0x38 Build/source/residual_coding_fx.picsl.o
+ .comment       0x0000005f       0x38 Build/source/scale_signal24_fx.picsl.o
+ .comment       0x0000005f       0x38 Build/source/sns_compute_scf_fx.picsl.o
+ .comment       0x0000005f       0x38 Build/source/tns_coder_fx.picsl.o
+ .comment       0x0000005f       0x38 Build/source/enc_lc3.picsl.o
+ .comment       0x0000005f       0x38 Build/source/enc_entropy.picsl.o
+ .comment       0x0000005f       0x38 Build/source/pvq_enc_fx.picsl.o
+ .comment       0x0000005f       0x38 Build/source/setup_enc_lc3.picsl.o
+ .comment       0x0000005f       0x38 Build/source/plc_lp_func.picsl.o
+ .comment       0x0000005f       0x38 Build/source/plc_lp_prcs_fx.picsl.o
+ .comment       0x0000005f       0x29 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crtend.o
+
+.xtensa.info    0x00000000      0x1f0
+ .xtensa.info   0x00000000      0x1f0 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crti.o
+ .xtensa.info   0x000001f0        0x0 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crtbegin.o
+ .xtensa.info   0x000001f0        0x0 Build/source/main_lib.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/lc3_memory.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/lc3_codec_api.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/lc3.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/basop_util.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/rom_basop_util.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/constants.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/basop32.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/enh1632.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/enhUL32.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/dct2_fx.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/dct4_fx.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/mdct_shaping_fx.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/sns_interpolate_scf_fx.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/ari_codec.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/sns_quantize_scf_fx.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/pvq_index_fx.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/pvq_dec_fx.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/fft.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/fft_stage.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/fft_stage_hifi5.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/apply_global_gain_fx.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/basop_mpy.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/imdct_fx.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/dec_entropy.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/dec_lc3.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/ltpf_decoder_fx.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/noise_filling_fx.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/residual_decoding_fx.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/setup_dec_lc3.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/tns_decoder_fx.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/plc_apply_fx.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/plc_classify_fx.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/plc_main_fx.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/plc_noise_substitution_fx.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/plc_update_aft_imdct_fx.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/plc_update_fx.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/adjust_global_gain_fx.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/attack_detector_fx.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/detect_cutoff_warped_fx.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/estimate_global_gain_fx.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/levinson_fx.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/ltpf_coder_fx.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/mdct_fx.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/near_nyquist_detector_fx.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/noise_factor_fx.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/olpa_fx.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/per_band_energy_fx.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/quantize_spec_fx.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/resamp12k8_fx.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/residual_coding_fx.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/scale_signal24_fx.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/sns_compute_scf_fx.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/tns_coder_fx.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/enc_lc3.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/enc_entropy.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/pvq_enc_fx.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/setup_enc_lc3.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/plc_lp_func.picsl.o
+ .xtensa.info   0x000001f0        0x0 Build/source/plc_lp_prcs_fx.picsl.o
+ .xtensa.info   0x000001f0        0x0 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crtend.o
+ .xtensa.info   0x000001f0        0x0 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crtn.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000    0x2ba5d
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000       0xfa Build/source/main_lib.picsl.o
+ .debug_info    0x000000fa      0x108 Build/source/lc3_memory.picsl.o
+ .debug_info    0x00000202     0x1141 Build/source/lc3_codec_api.picsl.o
+ .debug_info    0x00001343     0x1292 Build/source/lc3.picsl.o
+ .debug_info    0x000025d5     0x2505 Build/source/basop_util.picsl.o
+ .debug_info    0x00004ada      0x527 Build/source/rom_basop_util.picsl.o
+ .debug_info    0x00005001      0xe21 Build/source/constants.picsl.o
+ .debug_info    0x00005e22      0x446 Build/source/basop32.picsl.o
+ .debug_info    0x00006268      0x266 Build/source/enhUL32.picsl.o
+ .debug_info    0x000064ce     0x2cfb Build/source/dct2_fx.picsl.o
+ .debug_info    0x000091c9     0x1141 Build/source/dct4_fx.picsl.o
+ .debug_info    0x0000a30a      0x33b Build/source/mdct_shaping_fx.picsl.o
+ .debug_info    0x0000a645      0x5c4 Build/source/sns_interpolate_scf_fx.picsl.o
+ .debug_info    0x0000ac09     0x2717 Build/source/ari_codec.picsl.o
+ .debug_info    0x0000d320     0x1095 Build/source/sns_quantize_scf_fx.picsl.o
+ .debug_info    0x0000e3b5     0x106b Build/source/pvq_index_fx.picsl.o
+ .debug_info    0x0000f420      0x57a Build/source/pvq_dec_fx.picsl.o
+ .debug_info    0x0000f99a     0x1867 Build/source/fft.picsl.o
+ .debug_info    0x00011201     0x4216 Build/source/fft_stage.picsl.o
+ .debug_info    0x00015417      0x3af Build/source/apply_global_gain_fx.picsl.o
+ .debug_info    0x000157c6      0x25f Build/source/basop_mpy.picsl.o
+ .debug_info    0x00015a25      0x628 Build/source/imdct_fx.picsl.o
+ .debug_info    0x0001604d      0xf02 Build/source/dec_entropy.picsl.o
+ .debug_info    0x00016f4f      0xfea Build/source/dec_lc3.picsl.o
+ .debug_info    0x00017f39      0xd22 Build/source/ltpf_decoder_fx.picsl.o
+ .debug_info    0x00018c5b      0x4e5 Build/source/noise_filling_fx.picsl.o
+ .debug_info    0x00019140      0x3a7 Build/source/residual_decoding_fx.picsl.o
+ .debug_info    0x000194e7      0xd9e Build/source/setup_dec_lc3.picsl.o
+ .debug_info    0x0001a285      0x4cd Build/source/tns_decoder_fx.picsl.o
+ .debug_info    0x0001a752      0x371 Build/source/plc_apply_fx.picsl.o
+ .debug_info    0x0001aac3      0x2e3 Build/source/plc_classify_fx.picsl.o
+ .debug_info    0x0001ada6      0x3d3 Build/source/plc_main_fx.picsl.o
+ .debug_info    0x0001b179      0x309 Build/source/plc_noise_substitution_fx.picsl.o
+ .debug_info    0x0001b482      0x1b7 Build/source/plc_update_aft_imdct_fx.picsl.o
+ .debug_info    0x0001b639      0x3a3 Build/source/plc_update_fx.picsl.o
+ .debug_info    0x0001b9dc      0x767 Build/source/adjust_global_gain_fx.picsl.o
+ .debug_info    0x0001c143      0xd8f Build/source/attack_detector_fx.picsl.o
+ .debug_info    0x0001ced2      0x396 Build/source/detect_cutoff_warped_fx.picsl.o
+ .debug_info    0x0001d268      0xe7f Build/source/estimate_global_gain_fx.picsl.o
+ .debug_info    0x0001e0e7      0xef0 Build/source/levinson_fx.picsl.o
+ .debug_info    0x0001efd7     0x1047 Build/source/ltpf_coder_fx.picsl.o
+ .debug_info    0x0002001e      0x600 Build/source/mdct_fx.picsl.o
+ .debug_info    0x0002061e      0x2fb Build/source/near_nyquist_detector_fx.picsl.o
+ .debug_info    0x00020919      0x6e5 Build/source/noise_factor_fx.picsl.o
+ .debug_info    0x00020ffe     0x137f Build/source/olpa_fx.picsl.o
+ .debug_info    0x0002237d      0xa94 Build/source/per_band_energy_fx.picsl.o
+ .debug_info    0x00022e11      0x829 Build/source/quantize_spec_fx.picsl.o
+ .debug_info    0x0002363a      0x6e2 Build/source/resamp12k8_fx.picsl.o
+ .debug_info    0x00023d1c      0x27a Build/source/residual_coding_fx.picsl.o
+ .debug_info    0x00023f96      0x7e9 Build/source/scale_signal24_fx.picsl.o
+ .debug_info    0x0002477f      0xe79 Build/source/sns_compute_scf_fx.picsl.o
+ .debug_info    0x000255f8     0x106b Build/source/tns_coder_fx.picsl.o
+ .debug_info    0x00026663      0xfe3 Build/source/enc_lc3.picsl.o
+ .debug_info    0x00027646      0xb85 Build/source/enc_entropy.picsl.o
+ .debug_info    0x000281cb     0x127a Build/source/pvq_enc_fx.picsl.o
+ .debug_info    0x00029445      0xe69 Build/source/setup_enc_lc3.picsl.o
+ .debug_info    0x0002a2ae      0x886 Build/source/plc_lp_func.picsl.o
+ .debug_info    0x0002ab34      0xf29 Build/source/plc_lp_prcs_fx.picsl.o
+
+.debug_abbrev   0x00000000     0x5644
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0xb5 Build/source/main_lib.picsl.o
+ .debug_abbrev  0x000000b5       0x84 Build/source/lc3_memory.picsl.o
+ .debug_abbrev  0x00000139      0x1bf Build/source/lc3_codec_api.picsl.o
+ .debug_abbrev  0x000002f8      0x292 Build/source/lc3.picsl.o
+ .debug_abbrev  0x0000058a      0x238 Build/source/basop_util.picsl.o
+ .debug_abbrev  0x000007c2       0xf8 Build/source/rom_basop_util.picsl.o
+ .debug_abbrev  0x000008ba       0x82 Build/source/constants.picsl.o
+ .debug_abbrev  0x0000093c      0x12c Build/source/basop32.picsl.o
+ .debug_abbrev  0x00000a68      0x12e Build/source/enhUL32.picsl.o
+ .debug_abbrev  0x00000b96       0xdb Build/source/dct2_fx.picsl.o
+ .debug_abbrev  0x00000c71      0x1b0 Build/source/dct4_fx.picsl.o
+ .debug_abbrev  0x00000e21      0x125 Build/source/mdct_shaping_fx.picsl.o
+ .debug_abbrev  0x00000f46      0x10b Build/source/sns_interpolate_scf_fx.picsl.o
+ .debug_abbrev  0x00001051      0x27b Build/source/ari_codec.picsl.o
+ .debug_abbrev  0x000012cc      0x260 Build/source/sns_quantize_scf_fx.picsl.o
+ .debug_abbrev  0x0000152c      0x210 Build/source/pvq_index_fx.picsl.o
+ .debug_abbrev  0x0000173c      0x19b Build/source/pvq_dec_fx.picsl.o
+ .debug_abbrev  0x000018d7      0x19e Build/source/fft.picsl.o
+ .debug_abbrev  0x00001a75      0x1ed Build/source/fft_stage.picsl.o
+ .debug_abbrev  0x00001c62      0x134 Build/source/apply_global_gain_fx.picsl.o
+ .debug_abbrev  0x00001d96      0x108 Build/source/basop_mpy.picsl.o
+ .debug_abbrev  0x00001e9e      0x184 Build/source/imdct_fx.picsl.o
+ .debug_abbrev  0x00002022      0x172 Build/source/dec_entropy.picsl.o
+ .debug_abbrev  0x00002194      0x235 Build/source/dec_lc3.picsl.o
+ .debug_abbrev  0x000023c9      0x200 Build/source/ltpf_decoder_fx.picsl.o
+ .debug_abbrev  0x000025c9      0x11c Build/source/noise_filling_fx.picsl.o
+ .debug_abbrev  0x000026e5      0x108 Build/source/residual_decoding_fx.picsl.o
+ .debug_abbrev  0x000027ed      0x22d Build/source/setup_dec_lc3.picsl.o
+ .debug_abbrev  0x00002a1a      0x154 Build/source/tns_decoder_fx.picsl.o
+ .debug_abbrev  0x00002b6e      0x101 Build/source/plc_apply_fx.picsl.o
+ .debug_abbrev  0x00002c6f      0x123 Build/source/plc_classify_fx.picsl.o
+ .debug_abbrev  0x00002d92       0xee Build/source/plc_main_fx.picsl.o
+ .debug_abbrev  0x00002e80      0x110 Build/source/plc_noise_substitution_fx.picsl.o
+ .debug_abbrev  0x00002f90       0xb6 Build/source/plc_update_aft_imdct_fx.picsl.o
+ .debug_abbrev  0x00003046      0x110 Build/source/plc_update_fx.picsl.o
+ .debug_abbrev  0x00003156      0x144 Build/source/adjust_global_gain_fx.picsl.o
+ .debug_abbrev  0x0000329a      0x212 Build/source/attack_detector_fx.picsl.o
+ .debug_abbrev  0x000034ac      0x116 Build/source/detect_cutoff_warped_fx.picsl.o
+ .debug_abbrev  0x000035c2      0x197 Build/source/estimate_global_gain_fx.picsl.o
+ .debug_abbrev  0x00003759      0x207 Build/source/levinson_fx.picsl.o
+ .debug_abbrev  0x00003960      0x1a2 Build/source/ltpf_coder_fx.picsl.o
+ .debug_abbrev  0x00003b02      0x1a7 Build/source/mdct_fx.picsl.o
+ .debug_abbrev  0x00003ca9      0x135 Build/source/near_nyquist_detector_fx.picsl.o
+ .debug_abbrev  0x00003dde      0x146 Build/source/noise_factor_fx.picsl.o
+ .debug_abbrev  0x00003f24      0x1ba Build/source/olpa_fx.picsl.o
+ .debug_abbrev  0x000040de      0x171 Build/source/per_band_energy_fx.picsl.o
+ .debug_abbrev  0x0000424f      0x17d Build/source/quantize_spec_fx.picsl.o
+ .debug_abbrev  0x000043cc      0x192 Build/source/resamp12k8_fx.picsl.o
+ .debug_abbrev  0x0000455e       0xcb Build/source/residual_coding_fx.picsl.o
+ .debug_abbrev  0x00004629      0x1a7 Build/source/scale_signal24_fx.picsl.o
+ .debug_abbrev  0x000047d0      0x159 Build/source/sns_compute_scf_fx.picsl.o
+ .debug_abbrev  0x00004929      0x1cf Build/source/tns_coder_fx.picsl.o
+ .debug_abbrev  0x00004af8      0x20b Build/source/enc_lc3.picsl.o
+ .debug_abbrev  0x00004d03      0x171 Build/source/enc_entropy.picsl.o
+ .debug_abbrev  0x00004e74      0x1f4 Build/source/pvq_enc_fx.picsl.o
+ .debug_abbrev  0x00005068      0x238 Build/source/setup_enc_lc3.picsl.o
+ .debug_abbrev  0x000052a0      0x154 Build/source/plc_lp_func.picsl.o
+ .debug_abbrev  0x000053f4      0x250 Build/source/plc_lp_prcs_fx.picsl.o
+
+.debug_line     0x00000000    0x1d5ab
+ *(.debug_line)
+ .debug_line    0x00000000       0xa9 Build/source/main_lib.picsl.o
+ .debug_line    0x000000a9      0x129 Build/source/lc3_memory.picsl.o
+ .debug_line    0x000001d2      0x598 Build/source/lc3_codec_api.picsl.o
+ .debug_line    0x0000076a      0x81e Build/source/lc3.picsl.o
+ .debug_line    0x00000f88     0x169a Build/source/basop_util.picsl.o
+ .debug_line    0x00002622       0xd8 Build/source/rom_basop_util.picsl.o
+ .debug_line    0x000026fa       0x5b Build/source/constants.picsl.o
+ .debug_line    0x00002755      0x15c Build/source/basop32.picsl.o
+ .debug_line    0x000028b1      0x129 Build/source/enhUL32.picsl.o
+ .debug_line    0x000029da     0x1556 Build/source/dct2_fx.picsl.o
+ .debug_line    0x00003f30      0xa05 Build/source/dct4_fx.picsl.o
+ .debug_line    0x00004935      0x282 Build/source/mdct_shaping_fx.picsl.o
+ .debug_line    0x00004bb7      0x3f9 Build/source/sns_interpolate_scf_fx.picsl.o
+ .debug_line    0x00004fb0     0x226a Build/source/ari_codec.picsl.o
+ .debug_line    0x0000721a      0x94e Build/source/sns_quantize_scf_fx.picsl.o
+ .debug_line    0x00007b68      0x677 Build/source/pvq_index_fx.picsl.o
+ .debug_line    0x000081df      0x32c Build/source/pvq_dec_fx.picsl.o
+ .debug_line    0x0000850b     0x12fb Build/source/fft.picsl.o
+ .debug_line    0x00009806     0x50fb Build/source/fft_stage.picsl.o
+ .debug_line    0x0000e901      0x21b Build/source/apply_global_gain_fx.picsl.o
+ .debug_line    0x0000eb1c      0x10d Build/source/basop_mpy.picsl.o
+ .debug_line    0x0000ec29      0x51f Build/source/imdct_fx.picsl.o
+ .debug_line    0x0000f148      0x7a5 Build/source/dec_entropy.picsl.o
+ .debug_line    0x0000f8ed      0xc7a Build/source/dec_lc3.picsl.o
+ .debug_line    0x00010567      0xa25 Build/source/ltpf_decoder_fx.picsl.o
+ .debug_line    0x00010f8c      0x3cc Build/source/noise_filling_fx.picsl.o
+ .debug_line    0x00011358      0x16a Build/source/residual_decoding_fx.picsl.o
+ .debug_line    0x000114c2      0x788 Build/source/setup_dec_lc3.picsl.o
+ .debug_line    0x00011c4a      0x40b Build/source/tns_decoder_fx.picsl.o
+ .debug_line    0x00012055      0x154 Build/source/plc_apply_fx.picsl.o
+ .debug_line    0x000121a9      0x1bc Build/source/plc_classify_fx.picsl.o
+ .debug_line    0x00012365       0xe0 Build/source/plc_main_fx.picsl.o
+ .debug_line    0x00012445      0x1b0 Build/source/plc_noise_substitution_fx.picsl.o
+ .debug_line    0x000125f5       0xc5 Build/source/plc_update_aft_imdct_fx.picsl.o
+ .debug_line    0x000126ba      0x20f Build/source/plc_update_fx.picsl.o
+ .debug_line    0x000128c9      0x385 Build/source/adjust_global_gain_fx.picsl.o
+ .debug_line    0x00012c4e      0x6f8 Build/source/attack_detector_fx.picsl.o
+ .debug_line    0x00013346      0x28d Build/source/detect_cutoff_warped_fx.picsl.o
+ .debug_line    0x000135d3      0x6ba Build/source/estimate_global_gain_fx.picsl.o
+ .debug_line    0x00013c8d      0x8dd Build/source/levinson_fx.picsl.o
+ .debug_line    0x0001456a      0x9c5 Build/source/ltpf_coder_fx.picsl.o
+ .debug_line    0x00014f2f      0x4c4 Build/source/mdct_fx.picsl.o
+ .debug_line    0x000153f3      0x239 Build/source/near_nyquist_detector_fx.picsl.o
+ .debug_line    0x0001562c      0x41a Build/source/noise_factor_fx.picsl.o
+ .debug_line    0x00015a46      0xb20 Build/source/olpa_fx.picsl.o
+ .debug_line    0x00016566      0x667 Build/source/per_band_energy_fx.picsl.o
+ .debug_line    0x00016bcd      0xcab Build/source/quantize_spec_fx.picsl.o
+ .debug_line    0x00017878      0x624 Build/source/resamp12k8_fx.picsl.o
+ .debug_line    0x00017e9c      0x1ca Build/source/residual_coding_fx.picsl.o
+ .debug_line    0x00018066      0x62d Build/source/scale_signal24_fx.picsl.o
+ .debug_line    0x00018693      0x98e Build/source/sns_compute_scf_fx.picsl.o
+ .debug_line    0x00019021      0x938 Build/source/tns_coder_fx.picsl.o
+ .debug_line    0x00019959      0x9d4 Build/source/enc_lc3.picsl.o
+ .debug_line    0x0001a32d      0x6a2 Build/source/enc_entropy.picsl.o
+ .debug_line    0x0001a9cf      0xbff Build/source/pvq_enc_fx.picsl.o
+ .debug_line    0x0001b5ce      0x8d1 Build/source/setup_enc_lc3.picsl.o
+ .debug_line    0x0001be9f      0xbca Build/source/plc_lp_func.picsl.o
+ .debug_line    0x0001ca69      0xb42 Build/source/plc_lp_prcs_fx.picsl.o
+
+.debug_frame    0x00000000     0x1158
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x28 Build/source/main_lib.picsl.o
+ .debug_frame   0x00000028       0x3c Build/source/lc3_memory.picsl.o
+ .debug_frame   0x00000064       0xc8 Build/source/lc3_codec_api.picsl.o
+ .debug_frame   0x0000012c      0x208 Build/source/lc3.picsl.o
+ .debug_frame   0x00000334      0x1cc Build/source/basop_util.picsl.o
+ .debug_frame   0x00000500       0x28 Build/source/rom_basop_util.picsl.o
+ .debug_frame   0x00000528       0x78 Build/source/basop32.picsl.o
+ .debug_frame   0x000005a0       0x78 Build/source/enhUL32.picsl.o
+ .debug_frame   0x00000618       0x3c Build/source/dct2_fx.picsl.o
+ .debug_frame   0x00000654       0x3c Build/source/dct4_fx.picsl.o
+ .debug_frame   0x00000690       0x3c Build/source/mdct_shaping_fx.picsl.o
+ .debug_frame   0x000006cc       0x28 Build/source/sns_interpolate_scf_fx.picsl.o
+ .debug_frame   0x000006f4       0x78 Build/source/ari_codec.picsl.o
+ .debug_frame   0x0000076c       0x50 Build/source/sns_quantize_scf_fx.picsl.o
+ .debug_frame   0x000007bc       0x50 Build/source/pvq_index_fx.picsl.o
+ .debug_frame   0x0000080c       0x50 Build/source/pvq_dec_fx.picsl.o
+ .debug_frame   0x0000085c       0x3c Build/source/fft.picsl.o
+ .debug_frame   0x00000898       0xf0 Build/source/fft_stage.picsl.o
+ .debug_frame   0x00000988       0x28 Build/source/apply_global_gain_fx.picsl.o
+ .debug_frame   0x000009b0       0x28 Build/source/basop_mpy.picsl.o
+ .debug_frame   0x000009d8       0x28 Build/source/imdct_fx.picsl.o
+ .debug_frame   0x00000a00       0x3c Build/source/dec_entropy.picsl.o
+ .debug_frame   0x00000a3c       0x28 Build/source/dec_lc3.picsl.o
+ .debug_frame   0x00000a64       0x3c Build/source/ltpf_decoder_fx.picsl.o
+ .debug_frame   0x00000aa0       0x28 Build/source/noise_filling_fx.picsl.o
+ .debug_frame   0x00000ac8       0x28 Build/source/residual_decoding_fx.picsl.o
+ .debug_frame   0x00000af0       0x78 Build/source/setup_dec_lc3.picsl.o
+ .debug_frame   0x00000b68       0x28 Build/source/tns_decoder_fx.picsl.o
+ .debug_frame   0x00000b90       0x28 Build/source/plc_apply_fx.picsl.o
+ .debug_frame   0x00000bb8       0x28 Build/source/plc_classify_fx.picsl.o
+ .debug_frame   0x00000be0       0x28 Build/source/plc_main_fx.picsl.o
+ .debug_frame   0x00000c08       0x28 Build/source/plc_noise_substitution_fx.picsl.o
+ .debug_frame   0x00000c30       0x28 Build/source/plc_update_aft_imdct_fx.picsl.o
+ .debug_frame   0x00000c58       0x3c Build/source/plc_update_fx.picsl.o
+ .debug_frame   0x00000c94       0x28 Build/source/adjust_global_gain_fx.picsl.o
+ .debug_frame   0x00000cbc       0x28 Build/source/attack_detector_fx.picsl.o
+ .debug_frame   0x00000ce4       0x28 Build/source/detect_cutoff_warped_fx.picsl.o
+ .debug_frame   0x00000d0c       0x28 Build/source/estimate_global_gain_fx.picsl.o
+ .debug_frame   0x00000d34       0x3c Build/source/levinson_fx.picsl.o
+ .debug_frame   0x00000d70       0x28 Build/source/ltpf_coder_fx.picsl.o
+ .debug_frame   0x00000d98       0x28 Build/source/mdct_fx.picsl.o
+ .debug_frame   0x00000dc0       0x28 Build/source/near_nyquist_detector_fx.picsl.o
+ .debug_frame   0x00000de8       0x28 Build/source/noise_factor_fx.picsl.o
+ .debug_frame   0x00000e10       0x28 Build/source/olpa_fx.picsl.o
+ .debug_frame   0x00000e38       0x28 Build/source/per_band_energy_fx.picsl.o
+ .debug_frame   0x00000e60       0x28 Build/source/quantize_spec_fx.picsl.o
+ .debug_frame   0x00000e88       0x28 Build/source/resamp12k8_fx.picsl.o
+ .debug_frame   0x00000eb0       0x28 Build/source/residual_coding_fx.picsl.o
+ .debug_frame   0x00000ed8       0x28 Build/source/scale_signal24_fx.picsl.o
+ .debug_frame   0x00000f00       0x28 Build/source/sns_compute_scf_fx.picsl.o
+ .debug_frame   0x00000f28       0x28 Build/source/tns_coder_fx.picsl.o
+ .debug_frame   0x00000f50       0x28 Build/source/enc_lc3.picsl.o
+ .debug_frame   0x00000f78       0x28 Build/source/enc_entropy.picsl.o
+ .debug_frame   0x00000fa0       0x50 Build/source/pvq_enc_fx.picsl.o
+ .debug_frame   0x00000ff0       0x64 Build/source/setup_enc_lc3.picsl.o
+ .debug_frame   0x00001054       0xa0 Build/source/plc_lp_func.picsl.o
+ .debug_frame   0x000010f4       0x64 Build/source/plc_lp_prcs_fx.picsl.o
+
+.debug_str      0x00000000     0x52b2
+ *(.debug_str)
+ .debug_str     0x00000000       0xdf Build/source/main_lib.picsl.o
+                                         0xef (size before relaxing)
+ .debug_str     0x000000df       0x3c Build/source/lc3_memory.picsl.o
+                                         0xca (size before relaxing)
+ .debug_str     0x0000011b      0xb84 Build/source/lc3_codec_api.picsl.o
+                                        0xcfd (size before relaxing)
+ .debug_str     0x00000c9f      0x19e Build/source/lc3.picsl.o
+                                        0xca4 (size before relaxing)
+ .debug_str     0x00000e3d      0x422 Build/source/basop_util.picsl.o
+                                        0x5fe (size before relaxing)
+ .debug_str     0x0000125f      0x21d Build/source/rom_basop_util.picsl.o
+                                        0x312 (size before relaxing)
+ .debug_str     0x0000147c      0xd45 Build/source/constants.picsl.o
+                                        0xe4c (size before relaxing)
+ .debug_str     0x000021c1       0xb9 Build/source/basop32.picsl.o
+                                        0x185 (size before relaxing)
+ .debug_str     0x0000227a       0xc0 Build/source/enhUL32.picsl.o
+                                        0x192 (size before relaxing)
+ .debug_str     0x0000233a       0x8f Build/source/dct2_fx.picsl.o
+                                        0x146 (size before relaxing)
+ .debug_str     0x000023c9       0xd9 Build/source/dct4_fx.picsl.o
+                                        0x29f (size before relaxing)
+ .debug_str     0x000024a2       0x7c Build/source/mdct_shaping_fx.picsl.o
+                                        0x1cf (size before relaxing)
+ .debug_str     0x0000251e       0xa7 Build/source/sns_interpolate_scf_fx.picsl.o
+                                        0x1f8 (size before relaxing)
+ .debug_str     0x000025c5      0x45a Build/source/ari_codec.picsl.o
+                                        0x71d (size before relaxing)
+ .debug_str     0x00002a1f      0x454 Build/source/sns_quantize_scf_fx.picsl.o
+                                        0x705 (size before relaxing)
+ .debug_str     0x00002e73      0x24a Build/source/pvq_index_fx.picsl.o
+                                        0x3f1 (size before relaxing)
+ .debug_str     0x000030bd       0x92 Build/source/pvq_dec_fx.picsl.o
+                                        0x2b9 (size before relaxing)
+ .debug_str     0x0000314f      0x1b8 Build/source/fft.picsl.o
+                                        0x3b6 (size before relaxing)
+ .debug_str     0x00003307      0x315 Build/source/fft_stage.picsl.o
+                                        0x5d8 (size before relaxing)
+ .debug_str     0x0000361c       0x96 Build/source/apply_global_gain_fx.picsl.o
+                                        0x202 (size before relaxing)
+ .debug_str     0x000036b2       0x50 Build/source/basop_mpy.picsl.o
+                                        0x10a (size before relaxing)
+ .debug_str     0x00003702       0x79 Build/source/imdct_fx.picsl.o
+                                        0x360 (size before relaxing)
+ .debug_str     0x0000377b       0xbe Build/source/dec_entropy.picsl.o
+                                        0x350 (size before relaxing)
+ .debug_str     0x00003839      0x1d2 Build/source/dec_lc3.picsl.o
+                                        0xaa3 (size before relaxing)
+ .debug_str     0x00003a0b      0x17e Build/source/ltpf_decoder_fx.picsl.o
+                                        0x42c (size before relaxing)
+ .debug_str     0x00003b89       0xb4 Build/source/noise_filling_fx.picsl.o
+                                        0x291 (size before relaxing)
+ .debug_str     0x00003c3d       0x48 Build/source/residual_decoding_fx.picsl.o
+                                        0x138 (size before relaxing)
+ .debug_str     0x00003c85       0xa4 Build/source/setup_dec_lc3.picsl.o
+                                        0x80f (size before relaxing)
+ .debug_str     0x00003d29       0x79 Build/source/tns_decoder_fx.picsl.o
+                                        0x288 (size before relaxing)
+ .debug_str     0x00003da2       0x8c Build/source/plc_apply_fx.picsl.o
+                                        0x26c (size before relaxing)
+ .debug_str     0x00003e2e       0x7f Build/source/plc_classify_fx.picsl.o
+                                        0x21a (size before relaxing)
+ .debug_str     0x00003ead       0x3e Build/source/plc_main_fx.picsl.o
+                                        0x279 (size before relaxing)
+ .debug_str     0x00003eeb       0x50 Build/source/plc_noise_substitution_fx.picsl.o
+                                        0x17f (size before relaxing)
+ .debug_str     0x00003f3b       0x50 Build/source/plc_update_aft_imdct_fx.picsl.o
+                                        0x1a3 (size before relaxing)
+ .debug_str     0x00003f8b       0x51 Build/source/plc_update_fx.picsl.o
+                                        0x2b4 (size before relaxing)
+ .debug_str     0x00003fdc       0x79 Build/source/adjust_global_gain_fx.picsl.o
+                                        0x1ff (size before relaxing)
+ .debug_str     0x00004055       0xcd Build/source/attack_detector_fx.picsl.o
+                                        0x6b3 (size before relaxing)
+ .debug_str     0x00004122       0xe5 Build/source/detect_cutoff_warped_fx.picsl.o
+                                        0x20e (size before relaxing)
+ .debug_str     0x00004207       0xf2 Build/source/estimate_global_gain_fx.picsl.o
+                                        0x3c3 (size before relaxing)
+ .debug_str     0x000042f9       0x89 Build/source/levinson_fx.picsl.o
+                                        0x2ec (size before relaxing)
+ .debug_str     0x00004382      0x151 Build/source/ltpf_coder_fx.picsl.o
+                                        0x453 (size before relaxing)
+ .debug_str     0x000044d3       0x5d Build/source/mdct_fx.picsl.o
+                                        0x277 (size before relaxing)
+ .debug_str     0x00004530       0xc0 Build/source/near_nyquist_detector_fx.picsl.o
+                                        0x1df (size before relaxing)
+ .debug_str     0x000045f0       0x5b Build/source/noise_factor_fx.picsl.o
+                                        0x268 (size before relaxing)
+ .debug_str     0x0000464b       0xb5 Build/source/olpa_fx.picsl.o
+                                        0x417 (size before relaxing)
+ .debug_str     0x00004700       0xa5 Build/source/per_band_energy_fx.picsl.o
+                                        0x2c6 (size before relaxing)
+ .debug_str     0x000047a5       0xa6 Build/source/quantize_spec_fx.picsl.o
+                                        0x2ef (size before relaxing)
+ .debug_str     0x0000484b       0xbb Build/source/resamp12k8_fx.picsl.o
+                                        0x2be (size before relaxing)
+ .debug_str     0x00004906       0x4d Build/source/residual_coding_fx.picsl.o
+                                        0x1cd (size before relaxing)
+ .debug_str     0x00004953       0xbd Build/source/scale_signal24_fx.picsl.o
+                                        0x2a1 (size before relaxing)
+ .debug_str     0x00004a10      0x10d Build/source/sns_compute_scf_fx.picsl.o
+                                        0x36a (size before relaxing)
+ .debug_str     0x00004b1d      0x110 Build/source/tns_coder_fx.picsl.o
+                                        0x45a (size before relaxing)
+ .debug_str     0x00004c2d       0xbb Build/source/enc_lc3.picsl.o
+                                        0x89b (size before relaxing)
+ .debug_str     0x00004ce8       0x93 Build/source/enc_entropy.picsl.o
+                                        0x2db (size before relaxing)
+ .debug_str     0x00004d7b      0x17b Build/source/pvq_enc_fx.picsl.o
+                                        0x3eb (size before relaxing)
+ .debug_str     0x00004ef6       0x34 Build/source/setup_enc_lc3.picsl.o
+                                        0x80a (size before relaxing)
+ .debug_str     0x00004f2a      0x191 Build/source/plc_lp_func.picsl.o
+                                        0x3a5 (size before relaxing)
+ .debug_str     0x000050bb      0x1f7 Build/source/plc_lp_prcs_fx.picsl.o
+                                        0x566 (size before relaxing)
+
+.debug_loc      0x00000000    0x28b81
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x13 Build/source/main_lib.picsl.o
+ .debug_loc     0x00000013       0xf0 Build/source/lc3_memory.picsl.o
+ .debug_loc     0x00000103      0x42e Build/source/lc3_codec_api.picsl.o
+ .debug_loc     0x00000531      0x6f7 Build/source/lc3.picsl.o
+ .debug_loc     0x00000c28     0x2162 Build/source/basop_util.picsl.o
+ .debug_loc     0x00002d8a       0x6b Build/source/rom_basop_util.picsl.o
+ .debug_loc     0x00002df5      0x225 Build/source/basop32.picsl.o
+ .debug_loc     0x0000301a       0xf7 Build/source/enhUL32.picsl.o
+ .debug_loc     0x00003111     0x3af5 Build/source/dct2_fx.picsl.o
+ .debug_loc     0x00006c06     0x1901 Build/source/dct4_fx.picsl.o
+ .debug_loc     0x00008507      0x245 Build/source/mdct_shaping_fx.picsl.o
+ .debug_loc     0x0000874c      0x4e7 Build/source/sns_interpolate_scf_fx.picsl.o
+ .debug_loc     0x00008c33     0x301a Build/source/ari_codec.picsl.o
+ .debug_loc     0x0000bc4d      0xbbc Build/source/sns_quantize_scf_fx.picsl.o
+ .debug_loc     0x0000c809      0xd81 Build/source/pvq_index_fx.picsl.o
+ .debug_loc     0x0000d58a      0x2ca Build/source/pvq_dec_fx.picsl.o
+ .debug_loc     0x0000d854     0x1c58 Build/source/fft.picsl.o
+ .debug_loc     0x0000f4ac     0x70b8 Build/source/fft_stage.picsl.o
+ .debug_loc     0x00016564      0x1dd Build/source/apply_global_gain_fx.picsl.o
+ .debug_loc     0x00016741      0x1b6 Build/source/basop_mpy.picsl.o
+ .debug_loc     0x000168f7      0x4b6 Build/source/imdct_fx.picsl.o
+ .debug_loc     0x00016dad      0xc4e Build/source/dec_entropy.picsl.o
+ .debug_loc     0x000179fb      0x835 Build/source/dec_lc3.picsl.o
+ .debug_loc     0x00018230      0xd48 Build/source/ltpf_decoder_fx.picsl.o
+ .debug_loc     0x00018f78      0x38f Build/source/noise_filling_fx.picsl.o
+ .debug_loc     0x00019307      0x2a0 Build/source/residual_decoding_fx.picsl.o
+ .debug_loc     0x000195a7      0x6bd Build/source/setup_dec_lc3.picsl.o
+ .debug_loc     0x00019c64      0x45e Build/source/tns_decoder_fx.picsl.o
+ .debug_loc     0x0001a0c2       0xfb Build/source/plc_apply_fx.picsl.o
+ .debug_loc     0x0001a1bd      0x14d Build/source/plc_classify_fx.picsl.o
+ .debug_loc     0x0001a30a      0x11c Build/source/plc_main_fx.picsl.o
+ .debug_loc     0x0001a426      0x1ea Build/source/plc_noise_substitution_fx.picsl.o
+ .debug_loc     0x0001a610       0x5f Build/source/plc_update_aft_imdct_fx.picsl.o
+ .debug_loc     0x0001a66f      0x12f Build/source/plc_update_fx.picsl.o
+ .debug_loc     0x0001a79e      0x52f Build/source/adjust_global_gain_fx.picsl.o
+ .debug_loc     0x0001accd      0x775 Build/source/attack_detector_fx.picsl.o
+ .debug_loc     0x0001b442      0x375 Build/source/detect_cutoff_warped_fx.picsl.o
+ .debug_loc     0x0001b7b7      0xbde Build/source/estimate_global_gain_fx.picsl.o
+ .debug_loc     0x0001c395      0xfcc Build/source/levinson_fx.picsl.o
+ .debug_loc     0x0001d361     0x1149 Build/source/ltpf_coder_fx.picsl.o
+ .debug_loc     0x0001e4aa      0x54a Build/source/mdct_fx.picsl.o
+ .debug_loc     0x0001e9f4      0x299 Build/source/near_nyquist_detector_fx.picsl.o
+ .debug_loc     0x0001ec8d      0x645 Build/source/noise_factor_fx.picsl.o
+ .debug_loc     0x0001f2d2     0x12f2 Build/source/olpa_fx.picsl.o
+ .debug_loc     0x000205c4      0x9f6 Build/source/per_band_energy_fx.picsl.o
+ .debug_loc     0x00020fba      0xb67 Build/source/quantize_spec_fx.picsl.o
+ .debug_loc     0x00021b21      0x677 Build/source/resamp12k8_fx.picsl.o
+ .debug_loc     0x00022198      0x1bb Build/source/residual_coding_fx.picsl.o
+ .debug_loc     0x00022353      0x6d3 Build/source/scale_signal24_fx.picsl.o
+ .debug_loc     0x00022a26      0xdde Build/source/sns_compute_scf_fx.picsl.o
+ .debug_loc     0x00023804      0xfa7 Build/source/tns_coder_fx.picsl.o
+ .debug_loc     0x000247ab      0x840 Build/source/enc_lc3.picsl.o
+ .debug_loc     0x00024feb      0x97d Build/source/enc_entropy.picsl.o
+ .debug_loc     0x00025968     0x13bf Build/source/pvq_enc_fx.picsl.o
+ .debug_loc     0x00026d27      0x83d Build/source/setup_enc_lc3.picsl.o
+ .debug_loc     0x00027564      0x98e Build/source/plc_lp_func.picsl.o
+ .debug_loc     0x00027ef2      0xc8f Build/source/plc_lp_prcs_fx.picsl.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.xt.lit         0x00000000      0x188
+ *(.xt.lit .xt.lit.* .gnu.linkonce.p.*)
+ .xt.lit.plt    0x00000000        0x0 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crti.o
+ .xt.lit        0x00000000       0x18 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crtbegin.o
+ .xt.lit        0x00000018        0x8 Build/source/main_lib.picsl.o
+ .xt.lit        0x00000020        0x8 Build/source/lc3_codec_api.picsl.o
+ .xt.lit        0x00000028        0x8 Build/source/lc3.picsl.o
+ .xt.lit        0x00000030        0x8 Build/source/basop_util.picsl.o
+ .xt.lit        0x00000038        0x8 Build/source/rom_basop_util.picsl.o
+ .xt.lit        0x00000040        0x8 Build/source/dct4_fx.picsl.o
+ .xt.lit        0x00000048        0x0 Build/source/sns_interpolate_scf_fx.picsl.o
+                                          0x8 (size before relaxing)
+ .xt.lit        0x00000048        0x8 Build/source/ari_codec.picsl.o
+ .xt.lit        0x00000050        0x8 Build/source/sns_quantize_scf_fx.picsl.o
+ .xt.lit        0x00000058        0x8 Build/source/pvq_index_fx.picsl.o
+ .xt.lit        0x00000060        0x8 Build/source/pvq_dec_fx.picsl.o
+ .xt.lit        0x00000068        0x8 Build/source/fft.picsl.o
+ .xt.lit        0x00000070        0x8 Build/source/fft_stage.picsl.o
+ .xt.lit        0x00000078        0x8 Build/source/apply_global_gain_fx.picsl.o
+ .xt.lit        0x00000080        0x8 Build/source/imdct_fx.picsl.o
+ .xt.lit        0x00000088        0x8 Build/source/dec_entropy.picsl.o
+ .xt.lit        0x00000090        0x8 Build/source/dec_lc3.picsl.o
+ .xt.lit        0x00000098        0x8 Build/source/ltpf_decoder_fx.picsl.o
+ .xt.lit        0x000000a0        0x8 Build/source/noise_filling_fx.picsl.o
+ .xt.lit        0x000000a8        0x8 Build/source/setup_dec_lc3.picsl.o
+ .xt.lit        0x000000b0        0x8 Build/source/tns_decoder_fx.picsl.o
+ .xt.lit        0x000000b8        0x8 Build/source/plc_apply_fx.picsl.o
+ .xt.lit        0x000000c0        0x8 Build/source/plc_classify_fx.picsl.o
+ .xt.lit        0x000000c8        0x8 Build/source/plc_main_fx.picsl.o
+ .xt.lit        0x000000d0        0x8 Build/source/plc_update_fx.picsl.o
+ .xt.lit        0x000000d8        0x8 Build/source/adjust_global_gain_fx.picsl.o
+ .xt.lit        0x000000e0        0x0 Build/source/attack_detector_fx.picsl.o
+                                          0x8 (size before relaxing)
+ .xt.lit        0x000000e0        0x8 Build/source/detect_cutoff_warped_fx.picsl.o
+ .xt.lit        0x000000e8        0x8 Build/source/estimate_global_gain_fx.picsl.o
+ .xt.lit        0x000000f0        0x8 Build/source/levinson_fx.picsl.o
+ .xt.lit        0x000000f8        0x8 Build/source/ltpf_coder_fx.picsl.o
+ .xt.lit        0x00000100        0x0 Build/source/mdct_fx.picsl.o
+                                          0x8 (size before relaxing)
+ .xt.lit        0x00000100        0x8 Build/source/near_nyquist_detector_fx.picsl.o
+ .xt.lit        0x00000108        0x8 Build/source/noise_factor_fx.picsl.o
+ .xt.lit        0x00000110        0x8 Build/source/olpa_fx.picsl.o
+ .xt.lit        0x00000118        0x8 Build/source/per_band_energy_fx.picsl.o
+ .xt.lit        0x00000120        0x8 Build/source/quantize_spec_fx.picsl.o
+ .xt.lit        0x00000128        0x8 Build/source/resamp12k8_fx.picsl.o
+ .xt.lit        0x00000130        0x8 Build/source/scale_signal24_fx.picsl.o
+ .xt.lit        0x00000138        0x8 Build/source/sns_compute_scf_fx.picsl.o
+ .xt.lit        0x00000140        0x8 Build/source/tns_coder_fx.picsl.o
+ .xt.lit        0x00000148        0x8 Build/source/enc_lc3.picsl.o
+ .xt.lit        0x00000150        0x8 Build/source/enc_entropy.picsl.o
+ .xt.lit        0x00000158        0x8 Build/source/pvq_enc_fx.picsl.o
+ .xt.lit        0x00000160        0x8 Build/source/setup_enc_lc3.picsl.o
+ .xt.lit        0x00000168        0x8 Build/source/plc_lp_func.picsl.o
+ .xt.lit        0x00000170        0x8 Build/source/plc_lp_prcs_fx.picsl.o
+ .xt.lit        0x00000178       0x10 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crtend.o
+
+.xt.insn
+ *(.xt.insn .gnu.linkonce.x.*)
+
+.xt.prop        0x00000000     0x57cc
+ *(.xt.prop .gnu.linkonce.prop.*)
+ .xt.prop       0x00000000       0x30 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crti.o
+ .xt.prop       0x00000030       0xd8 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crtbegin.o
+ .xt.prop       0x00000108       0x30 Build/source/main_lib.picsl.o
+ .xt.prop       0x00000138       0x78 Build/source/lc3_memory.picsl.o
+                                         0x84 (size before relaxing)
+ .xt.prop       0x000001b0      0x204 Build/source/lc3_codec_api.picsl.o
+ .xt.prop       0x000003b4      0x5f4 Build/source/lc3.picsl.o
+ .xt.prop       0x000009a8      0x6cc Build/source/basop_util.picsl.o
+ .xt.prop       0x00001074      0x1c8 Build/source/rom_basop_util.picsl.o
+                                        0x2f4 (size before relaxing)
+ .xt.prop       0x0000123c      0x474 Build/source/constants.picsl.o
+                                        0x708 (size before relaxing)
+ .xt.prop       0x000016b0       0x90 Build/source/basop32.picsl.o
+ .xt.prop       0x00001740       0x84 Build/source/enhUL32.picsl.o
+ .xt.prop       0x000017c4       0x3c Build/source/dct2_fx.picsl.o
+ .xt.prop       0x00001800       0x9c Build/source/dct4_fx.picsl.o
+ .xt.prop       0x0000189c       0x84 Build/source/mdct_shaping_fx.picsl.o
+                                         0x90 (size before relaxing)
+ .xt.prop       0x00001920       0x84 Build/source/sns_interpolate_scf_fx.picsl.o
+                                         0x90 (size before relaxing)
+ .xt.prop       0x000019a4      0x828 Build/source/ari_codec.picsl.o
+                                        0x834 (size before relaxing)
+ .xt.prop       0x000021cc      0x1a4 Build/source/sns_quantize_scf_fx.picsl.o
+ .xt.prop       0x00002370      0x18c Build/source/pvq_index_fx.picsl.o
+ .xt.prop       0x000024fc       0xcc Build/source/pvq_dec_fx.picsl.o
+ .xt.prop       0x000025c8      0x36c Build/source/fft.picsl.o
+ .xt.prop       0x00002934      0x1bc Build/source/fft_stage.picsl.o
+ .xt.prop       0x00002af0       0x3c Build/source/apply_global_gain_fx.picsl.o
+ .xt.prop       0x00002b2c       0x24 Build/source/basop_mpy.picsl.o
+ .xt.prop       0x00002b50      0x114 Build/source/imdct_fx.picsl.o
+ .xt.prop       0x00002c64      0x174 Build/source/dec_entropy.picsl.o
+ .xt.prop       0x00002dd8      0x1d4 Build/source/dec_lc3.picsl.o
+ .xt.prop       0x00002fac      0x2f4 Build/source/ltpf_decoder_fx.picsl.o
+ .xt.prop       0x000032a0       0x9c Build/source/noise_filling_fx.picsl.o
+ .xt.prop       0x0000333c       0xa8 Build/source/residual_decoding_fx.picsl.o
+ .xt.prop       0x000033e4      0x198 Build/source/setup_dec_lc3.picsl.o
+ .xt.prop       0x0000357c      0x120 Build/source/tns_decoder_fx.picsl.o
+ .xt.prop       0x0000369c       0x6c Build/source/plc_apply_fx.picsl.o
+ .xt.prop       0x00003708       0x90 Build/source/plc_classify_fx.picsl.o
+ .xt.prop       0x00003798       0x48 Build/source/plc_main_fx.picsl.o
+ .xt.prop       0x000037e0       0x30 Build/source/plc_noise_substitution_fx.picsl.o
+                                         0x3c (size before relaxing)
+ .xt.prop       0x00003810       0x30 Build/source/plc_update_aft_imdct_fx.picsl.o
+ .xt.prop       0x00003840       0x60 Build/source/plc_update_fx.picsl.o
+ .xt.prop       0x000038a0       0xfc Build/source/adjust_global_gain_fx.picsl.o
+ .xt.prop       0x0000399c      0x12c Build/source/attack_detector_fx.picsl.o
+                                        0x138 (size before relaxing)
+ .xt.prop       0x00003ac8       0x78 Build/source/detect_cutoff_warped_fx.picsl.o
+ .xt.prop       0x00003b40       0xd8 Build/source/estimate_global_gain_fx.picsl.o
+ .xt.prop       0x00003c18      0x180 Build/source/levinson_fx.picsl.o
+ .xt.prop       0x00003d98      0x1f8 Build/source/ltpf_coder_fx.picsl.o
+ .xt.prop       0x00003f90       0xc0 Build/source/mdct_fx.picsl.o
+                                         0xcc (size before relaxing)
+ .xt.prop       0x00004050       0x90 Build/source/near_nyquist_detector_fx.picsl.o
+ .xt.prop       0x000040e0       0xfc Build/source/noise_factor_fx.picsl.o
+ .xt.prop       0x000041dc      0x138 Build/source/olpa_fx.picsl.o
+ .xt.prop       0x00004314      0x12c Build/source/per_band_energy_fx.picsl.o
+ .xt.prop       0x00004440      0x234 Build/source/quantize_spec_fx.picsl.o
+ .xt.prop       0x00004674      0x138 Build/source/resamp12k8_fx.picsl.o
+ .xt.prop       0x000047ac       0x54 Build/source/residual_coding_fx.picsl.o
+                                         0x60 (size before relaxing)
+ .xt.prop       0x00004800       0x90 Build/source/scale_signal24_fx.picsl.o
+ .xt.prop       0x00004890       0xa8 Build/source/sns_compute_scf_fx.picsl.o
+ .xt.prop       0x00004938      0x1ec Build/source/tns_coder_fx.picsl.o
+ .xt.prop       0x00004b24       0xe4 Build/source/enc_lc3.picsl.o
+ .xt.prop       0x00004c08      0x15c Build/source/enc_entropy.picsl.o
+ .xt.prop       0x00004d64      0x258 Build/source/pvq_enc_fx.picsl.o
+ .xt.prop       0x00004fbc      0x258 Build/source/setup_enc_lc3.picsl.o
+ .xt.prop       0x00005214      0x318 Build/source/plc_lp_func.picsl.o
+ .xt.prop       0x0000552c      0x210 Build/source/plc_lp_prcs_fx.picsl.o
+ .xt.prop       0x0000573c       0x60 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crtend.o
+ .xt.prop       0x0000579c       0x30 C:/usr/xtensa/XtDevTools/install/builds/RI-2021.8-win32/AB1568_i64B_d32B_512K/xtensa-elf/lib/xcc/crtn.o
+
+/DISCARD/
+ *(.note.GNU-stack)
+OUTPUT(Build/codec_lib/pisplit_lc3_codec_position_independent.splitload.lib elf32-xtensa-le)
+
+.debug_ranges   0x00000000     0x5268
+ .debug_ranges  0x00000000       0x18 Build/source/lc3.picsl.o
+ .debug_ranges  0x00000018      0x3e0 Build/source/basop_util.picsl.o
+ .debug_ranges  0x000003f8     0x1060 Build/source/dct2_fx.picsl.o
+ .debug_ranges  0x00001458      0x4f0 Build/source/dct4_fx.picsl.o
+ .debug_ranges  0x00001948       0x48 Build/source/mdct_shaping_fx.picsl.o
+ .debug_ranges  0x00001990       0x30 Build/source/sns_interpolate_scf_fx.picsl.o
+ .debug_ranges  0x000019c0      0x470 Build/source/ari_codec.picsl.o
+ .debug_ranges  0x00001e30       0x50 Build/source/sns_quantize_scf_fx.picsl.o
+ .debug_ranges  0x00001e80      0x1d0 Build/source/pvq_index_fx.picsl.o
+ .debug_ranges  0x00002050      0x280 Build/source/fft.picsl.o
+ .debug_ranges  0x000022d0     0x1130 Build/source/fft_stage.picsl.o
+ .debug_ranges  0x00003400       0xa0 Build/source/basop_mpy.picsl.o
+ .debug_ranges  0x000034a0       0x48 Build/source/imdct_fx.picsl.o
+ .debug_ranges  0x000034e8      0x190 Build/source/dec_entropy.picsl.o
+ .debug_ranges  0x00003678       0xd8 Build/source/dec_lc3.picsl.o
+ .debug_ranges  0x00003750       0xb0 Build/source/ltpf_decoder_fx.picsl.o
+ .debug_ranges  0x00003800       0x78 Build/source/noise_filling_fx.picsl.o
+ .debug_ranges  0x00003878       0xb8 Build/source/setup_dec_lc3.picsl.o
+ .debug_ranges  0x00003930       0x68 Build/source/tns_decoder_fx.picsl.o
+ .debug_ranges  0x00003998       0x60 Build/source/plc_noise_substitution_fx.picsl.o
+ .debug_ranges  0x000039f8      0x148 Build/source/attack_detector_fx.picsl.o
+ .debug_ranges  0x00003b40      0x108 Build/source/estimate_global_gain_fx.picsl.o
+ .debug_ranges  0x00003c48      0x230 Build/source/levinson_fx.picsl.o
+ .debug_ranges  0x00003e78      0x1d0 Build/source/ltpf_coder_fx.picsl.o
+ .debug_ranges  0x00004048       0x78 Build/source/mdct_fx.picsl.o
+ .debug_ranges  0x000040c0       0x28 Build/source/near_nyquist_detector_fx.picsl.o
+ .debug_ranges  0x000040e8       0x48 Build/source/noise_factor_fx.picsl.o
+ .debug_ranges  0x00004130      0x310 Build/source/olpa_fx.picsl.o
+ .debug_ranges  0x00004440      0x178 Build/source/per_band_energy_fx.picsl.o
+ .debug_ranges  0x000045b8       0xa0 Build/source/quantize_spec_fx.picsl.o
+ .debug_ranges  0x00004658       0xb0 Build/source/resamp12k8_fx.picsl.o
+ .debug_ranges  0x00004708       0x18 Build/source/residual_coding_fx.picsl.o
+ .debug_ranges  0x00004720      0x140 Build/source/scale_signal24_fx.picsl.o
+ .debug_ranges  0x00004860      0x138 Build/source/sns_compute_scf_fx.picsl.o
+ .debug_ranges  0x00004998      0x240 Build/source/tns_coder_fx.picsl.o
+ .debug_ranges  0x00004bd8       0x60 Build/source/enc_lc3.picsl.o
+ .debug_ranges  0x00004c38      0x1b0 Build/source/enc_entropy.picsl.o
+ .debug_ranges  0x00004de8      0x138 Build/source/pvq_enc_fx.picsl.o
+ .debug_ranges  0x00004f20      0x108 Build/source/setup_enc_lc3.picsl.o
+ .debug_ranges  0x00005028       0xd8 Build/source/plc_lp_func.picsl.o
+ .debug_ranges  0x00005100      0x168 Build/source/plc_lp_prcs_fx.picsl.o
+
+Memory Configuration
+
+Name             Origin          Length          Used            Unused          Attributes
+*default*        0x00000000      0xffffffff      
